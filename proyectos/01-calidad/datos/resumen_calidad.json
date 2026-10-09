@@ -1,0 +1,699 @@
+{
+  "titulo": "Análisis de calidad y no conformidades",
+  "advertencia": "Demostración con datos ficticios. No corresponde a una empresa real.",
+  "semilla": 42,
+  "fuente": "Calculado por analisis_calidad.py a partir de datos_calidad.csv",
+  "registros": 3000,
+  "kpis": {
+    "ramos_revisados": 462553,
+    "ramos_no_conformes": 27284,
+    "porcentaje_no_conformidad": 5.9,
+    "inspecciones": 3000
+  },
+  "evolucion_semanal": [
+    {
+      "anio": 2025,
+      "semana": 1,
+      "etiqueta": "S01",
+      "clave": "2025-S01",
+      "revisados": 3533,
+      "no_conformes": 188,
+      "porcentaje": 5.32
+    },
+    {
+      "anio": 2025,
+      "semana": 2,
+      "etiqueta": "S02",
+      "clave": "2025-S02",
+      "revisados": 8806,
+      "no_conformes": 454,
+      "porcentaje": 5.16
+    },
+    {
+      "anio": 2025,
+      "semana": 3,
+      "etiqueta": "S03",
+      "clave": "2025-S03",
+      "revisados": 8546,
+      "no_conformes": 472,
+      "porcentaje": 5.52
+    },
+    {
+      "anio": 2025,
+      "semana": 4,
+      "etiqueta": "S04",
+      "clave": "2025-S04",
+      "revisados": 8537,
+      "no_conformes": 453,
+      "porcentaje": 5.31
+    },
+    {
+      "anio": 2025,
+      "semana": 5,
+      "etiqueta": "S05",
+      "clave": "2025-S05",
+      "revisados": 8865,
+      "no_conformes": 470,
+      "porcentaje": 5.3
+    },
+    {
+      "anio": 2025,
+      "semana": 6,
+      "etiqueta": "S06",
+      "clave": "2025-S06",
+      "revisados": 9807,
+      "no_conformes": 612,
+      "porcentaje": 6.24
+    },
+    {
+      "anio": 2025,
+      "semana": 7,
+      "etiqueta": "S07",
+      "clave": "2025-S07",
+      "revisados": 9791,
+      "no_conformes": 599,
+      "porcentaje": 6.12
+    },
+    {
+      "anio": 2025,
+      "semana": 8,
+      "etiqueta": "S08",
+      "clave": "2025-S08",
+      "revisados": 9600,
+      "no_conformes": 598,
+      "porcentaje": 6.23
+    },
+    {
+      "anio": 2025,
+      "semana": 9,
+      "etiqueta": "S09",
+      "clave": "2025-S09",
+      "revisados": 9630,
+      "no_conformes": 629,
+      "porcentaje": 6.53
+    },
+    {
+      "anio": 2025,
+      "semana": 10,
+      "etiqueta": "S10",
+      "clave": "2025-S10",
+      "revisados": 8926,
+      "no_conformes": 454,
+      "porcentaje": 5.09
+    },
+    {
+      "anio": 2025,
+      "semana": 11,
+      "etiqueta": "S11",
+      "clave": "2025-S11",
+      "revisados": 8856,
+      "no_conformes": 494,
+      "porcentaje": 5.58
+    },
+    {
+      "anio": 2025,
+      "semana": 12,
+      "etiqueta": "S12",
+      "clave": "2025-S12",
+      "revisados": 8687,
+      "no_conformes": 722,
+      "porcentaje": 8.31
+    },
+    {
+      "anio": 2025,
+      "semana": 13,
+      "etiqueta": "S13",
+      "clave": "2025-S13",
+      "revisados": 8728,
+      "no_conformes": 741,
+      "porcentaje": 8.49
+    },
+    {
+      "anio": 2025,
+      "semana": 14,
+      "etiqueta": "S14",
+      "clave": "2025-S14",
+      "revisados": 8684,
+      "no_conformes": 720,
+      "porcentaje": 8.29
+    },
+    {
+      "anio": 2025,
+      "semana": 15,
+      "etiqueta": "S15",
+      "clave": "2025-S15",
+      "revisados": 8527,
+      "no_conformes": 469,
+      "porcentaje": 5.5
+    },
+    {
+      "anio": 2025,
+      "semana": 16,
+      "etiqueta": "S16",
+      "clave": "2025-S16",
+      "revisados": 8837,
+      "no_conformes": 493,
+      "porcentaje": 5.58
+    },
+    {
+      "anio": 2025,
+      "semana": 17,
+      "etiqueta": "S17",
+      "clave": "2025-S17",
+      "revisados": 8842,
+      "no_conformes": 455,
+      "porcentaje": 5.15
+    },
+    {
+      "anio": 2025,
+      "semana": 18,
+      "etiqueta": "S18",
+      "clave": "2025-S18",
+      "revisados": 9258,
+      "no_conformes": 517,
+      "porcentaje": 5.58
+    },
+    {
+      "anio": 2025,
+      "semana": 19,
+      "etiqueta": "S19",
+      "clave": "2025-S19",
+      "revisados": 9750,
+      "no_conformes": 594,
+      "porcentaje": 6.09
+    },
+    {
+      "anio": 2025,
+      "semana": 20,
+      "etiqueta": "S20",
+      "clave": "2025-S20",
+      "revisados": 9565,
+      "no_conformes": 603,
+      "porcentaje": 6.3
+    },
+    {
+      "anio": 2025,
+      "semana": 21,
+      "etiqueta": "S21",
+      "clave": "2025-S21",
+      "revisados": 9787,
+      "no_conformes": 606,
+      "porcentaje": 6.19
+    },
+    {
+      "anio": 2025,
+      "semana": 22,
+      "etiqueta": "S22",
+      "clave": "2025-S22",
+      "revisados": 9851,
+      "no_conformes": 591,
+      "porcentaje": 6.0
+    },
+    {
+      "anio": 2025,
+      "semana": 23,
+      "etiqueta": "S23",
+      "clave": "2025-S23",
+      "revisados": 8654,
+      "no_conformes": 481,
+      "porcentaje": 5.56
+    },
+    {
+      "anio": 2025,
+      "semana": 24,
+      "etiqueta": "S24",
+      "clave": "2025-S24",
+      "revisados": 8746,
+      "no_conformes": 471,
+      "porcentaje": 5.39
+    },
+    {
+      "anio": 2025,
+      "semana": 25,
+      "etiqueta": "S25",
+      "clave": "2025-S25",
+      "revisados": 8938,
+      "no_conformes": 471,
+      "porcentaje": 5.27
+    },
+    {
+      "anio": 2025,
+      "semana": 26,
+      "etiqueta": "S26",
+      "clave": "2025-S26",
+      "revisados": 8696,
+      "no_conformes": 487,
+      "porcentaje": 5.6
+    },
+    {
+      "anio": 2025,
+      "semana": 27,
+      "etiqueta": "S27",
+      "clave": "2025-S27",
+      "revisados": 8580,
+      "no_conformes": 457,
+      "porcentaje": 5.33
+    },
+    {
+      "anio": 2025,
+      "semana": 28,
+      "etiqueta": "S28",
+      "clave": "2025-S28",
+      "revisados": 8897,
+      "no_conformes": 478,
+      "porcentaje": 5.37
+    },
+    {
+      "anio": 2025,
+      "semana": 29,
+      "etiqueta": "S29",
+      "clave": "2025-S29",
+      "revisados": 8638,
+      "no_conformes": 454,
+      "porcentaje": 5.26
+    },
+    {
+      "anio": 2025,
+      "semana": 30,
+      "etiqueta": "S30",
+      "clave": "2025-S30",
+      "revisados": 8729,
+      "no_conformes": 451,
+      "porcentaje": 5.17
+    },
+    {
+      "anio": 2025,
+      "semana": 31,
+      "etiqueta": "S31",
+      "clave": "2025-S31",
+      "revisados": 8901,
+      "no_conformes": 487,
+      "porcentaje": 5.47
+    },
+    {
+      "anio": 2025,
+      "semana": 32,
+      "etiqueta": "S32",
+      "clave": "2025-S32",
+      "revisados": 8630,
+      "no_conformes": 462,
+      "porcentaje": 5.35
+    },
+    {
+      "anio": 2025,
+      "semana": 33,
+      "etiqueta": "S33",
+      "clave": "2025-S33",
+      "revisados": 8529,
+      "no_conformes": 615,
+      "porcentaje": 7.21
+    },
+    {
+      "anio": 2025,
+      "semana": 34,
+      "etiqueta": "S34",
+      "clave": "2025-S34",
+      "revisados": 8997,
+      "no_conformes": 675,
+      "porcentaje": 7.5
+    },
+    {
+      "anio": 2025,
+      "semana": 35,
+      "etiqueta": "S35",
+      "clave": "2025-S35",
+      "revisados": 8862,
+      "no_conformes": 667,
+      "porcentaje": 7.53
+    },
+    {
+      "anio": 2025,
+      "semana": 36,
+      "etiqueta": "S36",
+      "clave": "2025-S36",
+      "revisados": 8580,
+      "no_conformes": 465,
+      "porcentaje": 5.42
+    },
+    {
+      "anio": 2025,
+      "semana": 37,
+      "etiqueta": "S37",
+      "clave": "2025-S37",
+      "revisados": 8956,
+      "no_conformes": 492,
+      "porcentaje": 5.49
+    },
+    {
+      "anio": 2025,
+      "semana": 38,
+      "etiqueta": "S38",
+      "clave": "2025-S38",
+      "revisados": 8718,
+      "no_conformes": 476,
+      "porcentaje": 5.46
+    },
+    {
+      "anio": 2025,
+      "semana": 39,
+      "etiqueta": "S39",
+      "clave": "2025-S39",
+      "revisados": 8570,
+      "no_conformes": 474,
+      "porcentaje": 5.53
+    },
+    {
+      "anio": 2025,
+      "semana": 40,
+      "etiqueta": "S40",
+      "clave": "2025-S40",
+      "revisados": 8744,
+      "no_conformes": 472,
+      "porcentaje": 5.4
+    },
+    {
+      "anio": 2025,
+      "semana": 41,
+      "etiqueta": "S41",
+      "clave": "2025-S41",
+      "revisados": 8657,
+      "no_conformes": 501,
+      "porcentaje": 5.79
+    },
+    {
+      "anio": 2025,
+      "semana": 42,
+      "etiqueta": "S42",
+      "clave": "2025-S42",
+      "revisados": 8758,
+      "no_conformes": 480,
+      "porcentaje": 5.48
+    },
+    {
+      "anio": 2025,
+      "semana": 43,
+      "etiqueta": "S43",
+      "clave": "2025-S43",
+      "revisados": 8965,
+      "no_conformes": 451,
+      "porcentaje": 5.03
+    },
+    {
+      "anio": 2025,
+      "semana": 44,
+      "etiqueta": "S44",
+      "clave": "2025-S44",
+      "revisados": 8879,
+      "no_conformes": 460,
+      "porcentaje": 5.18
+    },
+    {
+      "anio": 2025,
+      "semana": 45,
+      "etiqueta": "S45",
+      "clave": "2025-S45",
+      "revisados": 8629,
+      "no_conformes": 489,
+      "porcentaje": 5.67
+    },
+    {
+      "anio": 2025,
+      "semana": 46,
+      "etiqueta": "S46",
+      "clave": "2025-S46",
+      "revisados": 9087,
+      "no_conformes": 506,
+      "porcentaje": 5.57
+    },
+    {
+      "anio": 2025,
+      "semana": 47,
+      "etiqueta": "S47",
+      "clave": "2025-S47",
+      "revisados": 8693,
+      "no_conformes": 484,
+      "porcentaje": 5.57
+    },
+    {
+      "anio": 2025,
+      "semana": 48,
+      "etiqueta": "S48",
+      "clave": "2025-S48",
+      "revisados": 8498,
+      "no_conformes": 468,
+      "porcentaje": 5.51
+    },
+    {
+      "anio": 2025,
+      "semana": 49,
+      "etiqueta": "S49",
+      "clave": "2025-S49",
+      "revisados": 9951,
+      "no_conformes": 615,
+      "porcentaje": 6.18
+    },
+    {
+      "anio": 2025,
+      "semana": 50,
+      "etiqueta": "S50",
+      "clave": "2025-S50",
+      "revisados": 9899,
+      "no_conformes": 674,
+      "porcentaje": 6.81
+    },
+    {
+      "anio": 2025,
+      "semana": 51,
+      "etiqueta": "S51",
+      "clave": "2025-S51",
+      "revisados": 9609,
+      "no_conformes": 543,
+      "porcentaje": 5.65
+    },
+    {
+      "anio": 2025,
+      "semana": 52,
+      "etiqueta": "S52",
+      "clave": "2025-S52",
+      "revisados": 10150,
+      "no_conformes": 644,
+      "porcentaje": 6.34
+    }
+  ],
+  "por_finca": [
+    {
+      "finca": "El Mirador",
+      "revisados": 79439,
+      "no_conformes": 7154,
+      "porcentaje": 9.01
+    },
+    {
+      "finca": "San José",
+      "revisados": 87995,
+      "no_conformes": 5585,
+      "porcentaje": 6.35
+    },
+    {
+      "finca": "Los Pinos",
+      "revisados": 98720,
+      "no_conformes": 5701,
+      "porcentaje": 5.77
+    },
+    {
+      "finca": "Las Acacias",
+      "revisados": 103353,
+      "no_conformes": 5268,
+      "porcentaje": 5.1
+    },
+    {
+      "finca": "La Esperanza",
+      "revisados": 93046,
+      "no_conformes": 3576,
+      "porcentaje": 3.84
+    }
+  ],
+  "por_variedad": [
+    {
+      "variedad": "Girasol",
+      "revisados": 77095,
+      "no_conformes": 5209,
+      "porcentaje": 6.76
+    },
+    {
+      "variedad": "Clavel",
+      "revisados": 76336,
+      "no_conformes": 4811,
+      "porcentaje": 6.3
+    },
+    {
+      "variedad": "Rosa roja",
+      "revisados": 77423,
+      "no_conformes": 4858,
+      "porcentaje": 6.27
+    },
+    {
+      "variedad": "Crisantemo",
+      "revisados": 76551,
+      "no_conformes": 4327,
+      "porcentaje": 5.65
+    },
+    {
+      "variedad": "Alstroemeria",
+      "revisados": 77267,
+      "no_conformes": 4151,
+      "porcentaje": 5.37
+    },
+    {
+      "variedad": "Rosa blanca",
+      "revisados": 77881,
+      "no_conformes": 3928,
+      "porcentaje": 5.04
+    }
+  ],
+  "causas": [
+    {
+      "causa": "Deshidratación",
+      "ramos": 4824,
+      "porcentaje": 17.68
+    },
+    {
+      "causa": "Tallo corto",
+      "ramos": 4527,
+      "porcentaje": 16.59
+    },
+    {
+      "causa": "Flor abierta",
+      "ramos": 4347,
+      "porcentaje": 15.93
+    },
+    {
+      "causa": "Manchas",
+      "ramos": 3954,
+      "porcentaje": 14.49
+    },
+    {
+      "causa": "Empaque deficiente",
+      "ramos": 3620,
+      "porcentaje": 13.27
+    },
+    {
+      "causa": "Plagas",
+      "ramos": 3051,
+      "porcentaje": 11.18
+    },
+    {
+      "causa": "Color irregular",
+      "ramos": 2961,
+      "porcentaje": 10.85
+    }
+  ],
+  "comparacion_mensual": [
+    {
+      "mes": "2025-01",
+      "etiqueta": "Ene",
+      "revisados": 38287,
+      "no_conformes": 2037,
+      "porcentaje": 5.32
+    },
+    {
+      "mes": "2025-02",
+      "etiqueta": "Feb",
+      "revisados": 38828,
+      "no_conformes": 2438,
+      "porcentaje": 6.28
+    },
+    {
+      "mes": "2025-03",
+      "etiqueta": "Mar",
+      "revisados": 36878,
+      "no_conformes": 2561,
+      "porcentaje": 6.94
+    },
+    {
+      "mes": "2025-04",
+      "etiqueta": "Abr",
+      "revisados": 38571,
+      "no_conformes": 2255,
+      "porcentaje": 5.85
+    },
+    {
+      "mes": "2025-05",
+      "etiqueta": "May",
+      "revisados": 42849,
+      "no_conformes": 2643,
+      "porcentaje": 6.17
+    },
+    {
+      "mes": "2025-06",
+      "etiqueta": "Jun",
+      "revisados": 36919,
+      "no_conformes": 2011,
+      "porcentaje": 5.45
+    },
+    {
+      "mes": "2025-07",
+      "etiqueta": "Jul",
+      "revisados": 40101,
+      "no_conformes": 2121,
+      "porcentaje": 5.29
+    },
+    {
+      "mes": "2025-08",
+      "etiqueta": "Ago",
+      "revisados": 36777,
+      "no_conformes": 2524,
+      "porcentaje": 6.86
+    },
+    {
+      "mes": "2025-09",
+      "etiqueta": "Sep",
+      "revisados": 38530,
+      "no_conformes": 2108,
+      "porcentaje": 5.47
+    },
+    {
+      "mes": "2025-10",
+      "etiqueta": "Oct",
+      "revisados": 40297,
+      "no_conformes": 2163,
+      "porcentaje": 5.37
+    },
+    {
+      "mes": "2025-11",
+      "etiqueta": "Nov",
+      "revisados": 34907,
+      "no_conformes": 1947,
+      "porcentaje": 5.58
+    },
+    {
+      "mes": "2025-12",
+      "etiqueta": "Dic",
+      "revisados": 39609,
+      "no_conformes": 2476,
+      "porcentaje": 6.25
+    }
+  ],
+  "explicacion": "Se sumaron los ramos revisados y los ramos no conformes de las 3000 inspecciones. El porcentaje general es 5,90 % (27.284 de 462.553 ramos). El Mirador concentra el porcentaje más alto (9,01 %) y La Esperanza el más bajo (3,84 %). La causa principal, contada en ramos, es Deshidratación.",
+  "conclusiones": [
+    "De 462.553 ramos revisados, 27.284 quedaron no conformes (5,90 %).",
+    "La finca con mayor no conformidad fue El Mirador (9,01 %) y la de menor fue La Esperanza (3,84 %).",
+    "La variedad con mayor no conformidad fue Girasol (6,76 %).",
+    "La causa más frecuente fue Deshidratación, con 4.824 ramos (17,68 % de los no conformes).",
+    "El mes con mayor porcentaje fue Mar (6,94 %) y el de menor fue Jul (5,29 %)."
+  ],
+  "formulas": [
+    {
+      "nombre": "Porcentaje de no conformidad",
+      "expresion": "suma de ramos no conformes / suma de ramos revisados × 100"
+    },
+    {
+      "nombre": "No conformidad por finca, variedad, semana o mes",
+      "expresion": "la misma fórmula, calculada dentro de cada grupo"
+    }
+  ],
+  "validacion": {
+    "filas": 3000,
+    "filas_con_nc_mayor_que_revisados": 0,
+    "valores_nulos": 0
+  }
+}

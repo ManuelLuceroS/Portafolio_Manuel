@@ -1,0 +1,81 @@
+id_producto,producto,categoria,precio,costo
+1,Arroz 500 g,Alimentos,2800,1960
+2,Arroz 1000 g,Alimentos,5100,3519
+3,Arroz 2500 g,Alimentos,11200,7616
+4,Frijol 500 g,Alimentos,4200,2982
+5,Frijol 1000 g,Alimentos,7600,5320
+6,Frijol 2500 g,Alimentos,16800,11592
+7,Azúcar 500 g,Alimentos,2600,1872
+8,Azúcar 1000 g,Alimentos,4700,3337
+9,Azúcar 2500 g,Alimentos,10500,7350
+10,Aceite 500 ml,Alimentos,8900,6586
+11,Aceite 1000 ml,Alimentos,15200,11096
+12,Aceite 3000 ml,Alimentos,39800,28656
+13,Pasta 250 g,Alimentos,2200,1452
+14,Pasta 500 g,Alimentos,3900,2574
+15,Pasta 1000 g,Alimentos,7100,4615
+16,Café 125 g,Alimentos,6800,4352
+17,Café 250 g,Alimentos,11900,7497
+18,Café 500 g,Alimentos,21400,13268
+19,Lenteja 500 g,Alimentos,3600,2520
+20,Lenteja 1000 g,Alimentos,6500,4485
+21,Avena 250 g,Alimentos,3100,2077
+22,Avena 500 g,Alimentos,5400,3564
+23,Avena 1000 g,Alimentos,9800,6370
+24,Harina de trigo 500 g,Alimentos,2400,1704
+25,Harina de trigo 1000 g,Alimentos,4300,3010
+26,Atún 170 g,Alimentos,5900,4012
+27,Atún 3 unidades,Alimentos,16500,11055
+28,Agua 600 ml,Bebidas,1800,1080
+29,Agua 1500 ml,Bebidas,2900,1682
+30,Gaseosa 400 ml,Bebidas,2500,1550
+31,Gaseosa 1500 ml,Bebidas,5200,3120
+32,Jugo 250 ml,Bebidas,2700,1647
+33,Jugo 1000 ml,Bebidas,6900,4140
+34,Té 20 sobres,Bebidas,7400,4292
+35,Té 50 sobres,Bebidas,14900,8493
+36,Malta 330 ml,Bebidas,2800,1764
+37,Malta 6 unidades,Bebidas,14900,9238
+38,Leche 1000 ml,Bebidas,4600,3312
+39,Leche 6 unidades,Bebidas,25200,17892
+40,Jabón en barra 3 unidades,Aseo,6200,3596
+41,Jabón en barra 6 unidades,Aseo,10900,6213
+42,Detergente 500 g,Aseo,7800,4680
+43,Detergente 2000 g,Aseo,21400,12412
+44,Blanqueador 1000 ml,Aseo,4200,2394
+45,Blanqueador 2000 ml,Aseo,7300,4088
+46,Lavaloza 500 ml,Aseo,5600,3304
+47,Lavaloza 1000 ml,Aseo,9800,5684
+48,Papel higiénico 4 rollos,Aseo,8900,5429
+49,Papel higiénico 12 rollos,Aseo,22900,13740
+50,Limpiavidrios 500 ml,Aseo,6400,3648
+51,Limpiavidrios 1000 ml,Aseo,10900,6104
+52,Champú 200 ml,Cuidado personal,9800,5390
+53,Champú 400 ml,Cuidado personal,16200,8748
+54,Crema dental 75 ml,Cuidado personal,5400,3024
+55,Crema dental 3 unidades,Cuidado personal,13900,7645
+56,Desodorante 50 g,Cuidado personal,8900,4806
+57,Desodorante 2 unidades,Cuidado personal,15900,8427
+58,Jabón tocador 3 unidades,Cuidado personal,7200,4176
+59,Jabón tocador 6 unidades,Cuidado personal,12800,7296
+60,Toallas húmedas 50 unidades,Cuidado personal,6900,3864
+61,Toallas húmedas 100 unidades,Cuidado personal,11900,6545
+62,Crema corporal 200 ml,Cuidado personal,12400,6448
+63,Crema corporal 400 ml,Cuidado personal,19800,10098
+64,Bombillo LED 9 W,Hogar,8900,5340
+65,Bombillo LED 12 W,Hogar,11200,6608
+66,Pila AA 2 unidades,Hogar,5400,3348
+67,Pila AA 8 unidades,Hogar,16900,10309
+68,Escoba unidad,Hogar,12900,7740
+69,Trapero unidad,Hogar,15600,9516
+70,Bolsa de basura 10 unidades,Hogar,4800,3024
+71,Bolsa de basura 30 unidades,Hogar,11200,6944
+72,Servilleta 100 unidades,Hogar,3900,2496
+73,Servilleta 300 unidades,Hogar,8900,5607
+74,Vela 4 unidades,Hogar,6200,3596
+75,Vela 12 unidades,Hogar,14900,8493
+76,Encendedor unidad,Hogar,2500,1375
+77,Ambientador unidad,Hogar,7800,4446
+78,Ambientador 3 unidades,Hogar,19800,11088
+79,Cinta adhesiva unidad,Hogar,4300,2580
+80,Fósforos 10 cajas,Hogar,3600,2232

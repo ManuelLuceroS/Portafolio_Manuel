@@ -1,0 +1,11 @@
+actividad,area,unidad
+Corte en cultivo,Producción,ramos
+Preparación de ramos,Producción,ramos
+Inspección de lote,Calidad,lotes
+Reinspección de lote,Calidad,lotes
+Despacho urbano,Logística,despachos
+Despacho regional,Logística,despachos
+Armado de cajas,Empaque,cajas
+Etiquetado,Empaque,cajas
+Revisión de equipos,Mantenimiento,órdenes
+Mantenimiento preventivo,Mantenimiento,órdenes

@@ -1,0 +1,315 @@
+{
+  "titulo": "Análisis de ventas y clientes",
+  "advertencia": "Demostración con datos ficticios. No corresponde a una tienda real.",
+  "semilla": 7,
+  "fuente": "Calculado por analisis_ventas.py a partir de los CSV de ventas",
+  "kpis": {
+    "ingresos": 118621300,
+    "ventas": 1500,
+    "ticket_promedio": 79081,
+    "margen_bruto": 42766457,
+    "margen_porcentaje": 36.05,
+    "costo_total": 75854843,
+    "clientes_maestro": 300,
+    "clientes_con_compra": 261,
+    "clientes_recurrentes": 165
+  },
+  "mensual": [
+    {
+      "mes": "2025-01",
+      "etiqueta": "Ene",
+      "ingresos": 7499080,
+      "ventas": 108,
+      "ticket_promedio": 69436,
+      "ingresos_acumulados": 7499080
+    },
+    {
+      "mes": "2025-02",
+      "etiqueta": "Feb",
+      "ingresos": 7100450,
+      "ventas": 87,
+      "ticket_promedio": 81614,
+      "ingresos_acumulados": 14599530
+    },
+    {
+      "mes": "2025-03",
+      "etiqueta": "Mar",
+      "ingresos": 6995560,
+      "ventas": 90,
+      "ticket_promedio": 77728,
+      "ingresos_acumulados": 21595090
+    },
+    {
+      "mes": "2025-04",
+      "etiqueta": "Abr",
+      "ingresos": 10183740,
+      "ventas": 138,
+      "ticket_promedio": 73795,
+      "ingresos_acumulados": 31778830
+    },
+    {
+      "mes": "2025-05",
+      "etiqueta": "May",
+      "ingresos": 9694890,
+      "ventas": 123,
+      "ticket_promedio": 78820,
+      "ingresos_acumulados": 41473720
+    },
+    {
+      "mes": "2025-06",
+      "etiqueta": "Jun",
+      "ingresos": 9851100,
+      "ventas": 120,
+      "ticket_promedio": 82092,
+      "ingresos_acumulados": 51324820
+    },
+    {
+      "mes": "2025-07",
+      "etiqueta": "Jul",
+      "ingresos": 9657820,
+      "ventas": 122,
+      "ticket_promedio": 79162,
+      "ingresos_acumulados": 60982640
+    },
+    {
+      "mes": "2025-08",
+      "etiqueta": "Ago",
+      "ingresos": 8422910,
+      "ventas": 106,
+      "ticket_promedio": 79461,
+      "ingresos_acumulados": 69405550
+    },
+    {
+      "mes": "2025-09",
+      "etiqueta": "Sep",
+      "ingresos": 9964080,
+      "ventas": 124,
+      "ticket_promedio": 80355,
+      "ingresos_acumulados": 79369630
+    },
+    {
+      "mes": "2025-10",
+      "etiqueta": "Oct",
+      "ingresos": 12688500,
+      "ventas": 151,
+      "ticket_promedio": 84030,
+      "ingresos_acumulados": 92058130
+    },
+    {
+      "mes": "2025-11",
+      "etiqueta": "Nov",
+      "ingresos": 12220980,
+      "ventas": 148,
+      "ticket_promedio": 82574,
+      "ingresos_acumulados": 104279110
+    },
+    {
+      "mes": "2025-12",
+      "etiqueta": "Dic",
+      "ingresos": 14342190,
+      "ventas": 183,
+      "ticket_promedio": 78373,
+      "ingresos_acumulados": 118621300
+    }
+  ],
+  "top_productos": [
+    {
+      "producto": "Azúcar 500 g",
+      "categoria": "Alimentos",
+      "cantidad": 405,
+      "ingresos": 1041040
+    },
+    {
+      "producto": "Avena 250 g",
+      "categoria": "Alimentos",
+      "cantidad": 391,
+      "ingresos": 1201870
+    },
+    {
+      "producto": "Lenteja 500 g",
+      "categoria": "Alimentos",
+      "cantidad": 367,
+      "ingresos": 1311480
+    },
+    {
+      "producto": "Harina de trigo 500 g",
+      "categoria": "Alimentos",
+      "cantidad": 345,
+      "ingresos": 822240
+    },
+    {
+      "producto": "Gaseosa 400 ml",
+      "categoria": "Bebidas",
+      "cantidad": 339,
+      "ingresos": 842750
+    },
+    {
+      "producto": "Arroz 500 g",
+      "categoria": "Alimentos",
+      "cantidad": 338,
+      "ingresos": 942760
+    },
+    {
+      "producto": "Pasta 500 g",
+      "categoria": "Alimentos",
+      "cantidad": 336,
+      "ingresos": 1304940
+    },
+    {
+      "producto": "Frijol 500 g",
+      "categoria": "Alimentos",
+      "cantidad": 331,
+      "ingresos": 1382640
+    },
+    {
+      "producto": "Azúcar 1000 g",
+      "categoria": "Alimentos",
+      "cantidad": 326,
+      "ingresos": 1520920
+    },
+    {
+      "producto": "Harina de trigo 1000 g",
+      "categoria": "Alimentos",
+      "cantidad": 318,
+      "ingresos": 1350200
+    }
+  ],
+  "por_categoria": [
+    {
+      "categoria": "Alimentos",
+      "ingresos": 56230810,
+      "margen": 17548279,
+      "cantidad": 7547,
+      "porcentaje_ingresos": 47.4,
+      "margen_porcentaje": 31.21
+    },
+    {
+      "categoria": "Bebidas",
+      "ingresos": 19815460,
+      "margen": 7310299,
+      "cantidad": 2894,
+      "porcentaje_ingresos": 16.7,
+      "margen_porcentaje": 36.89
+    },
+    {
+      "categoria": "Aseo",
+      "ingresos": 15214260,
+      "margen": 6284292,
+      "cantidad": 1648,
+      "porcentaje_ingresos": 12.83,
+      "margen_porcentaje": 41.31
+    },
+    {
+      "categoria": "Cuidado personal",
+      "ingresos": 14340060,
+      "margen": 6491932,
+      "cantidad": 1255,
+      "porcentaje_ingresos": 12.09,
+      "margen_porcentaje": 45.27
+    },
+    {
+      "categoria": "Hogar",
+      "ingresos": 13020710,
+      "margen": 5131655,
+      "cantidad": 1539,
+      "porcentaje_ingresos": 10.98,
+      "margen_porcentaje": 39.41
+    }
+  ],
+  "top_clientes": [
+    {
+      "nombre": "Samuel Navarro",
+      "ciudad": "Medellín",
+      "compras": 23,
+      "ingresos": 2330660
+    },
+    {
+      "nombre": "Miguel Suárez",
+      "ciudad": "Pereira",
+      "compras": 23,
+      "ingresos": 1994200
+    },
+    {
+      "nombre": "Laura Díaz",
+      "ciudad": "Pereira",
+      "compras": 25,
+      "ingresos": 1894540
+    },
+    {
+      "nombre": "Juan Rivera",
+      "ciudad": "Pereira",
+      "compras": 22,
+      "ingresos": 1853420
+    },
+    {
+      "nombre": "Nicolás Cruz",
+      "ciudad": "Manizales",
+      "compras": 26,
+      "ingresos": 1815710
+    },
+    {
+      "nombre": "Santiago Jiménez",
+      "ciudad": "Cali",
+      "compras": 17,
+      "ingresos": 1783110
+    },
+    {
+      "nombre": "Andrés Hernández",
+      "ciudad": "Bogotá",
+      "compras": 22,
+      "ingresos": 1727220
+    },
+    {
+      "nombre": "Mateo Torres",
+      "ciudad": "Bogotá",
+      "compras": 21,
+      "ingresos": 1699600
+    }
+  ],
+  "definicion_recurrente": "Cliente con 3 o más compras en el periodo.",
+  "explicacion": "Los ingresos se calcularon línea por línea, multiplicando cantidad por precio unitario. La suma del periodo es 118.621.300 COP en 1.500 ventas. El ticket promedio es 79.081 COP. El margen bruto estimado es 42.766.457 COP (36,05 %). De 300 clientes del maestro, 261 compraron al menos una vez y 165 tuvieron 3 o más compras.",
+  "conclusiones": [
+    "Los ingresos del periodo suman 118.621.300 COP, con un ticket promedio de 79.081 COP.",
+    "El margen bruto estimado es 36,05 % (42.766.457 COP).",
+    "El producto con más unidades fue Azúcar 500 g (405 unidades).",
+    "El producto con más ingresos fue Aceite 3000 ml (5.977.960 COP).",
+    "La categoría con más ingresos fue Alimentos (47,40 % de los ingresos).",
+    "La categoría con mayor margen porcentual fue Cuidado personal (45,27 %).",
+    "El mes de mayores ingresos fue Dic (14.342.190 COP).",
+    "165 clientes compraron 3 veces o más. Son el 63,22 % de quienes tuvieron al menos una compra."
+  ],
+  "formulas": [
+    {
+      "nombre": "Ingreso de la línea",
+      "expresion": "cantidad × precio_unitario"
+    },
+    {
+      "nombre": "Costo de la línea",
+      "expresion": "cantidad × costo del producto"
+    },
+    {
+      "nombre": "Margen bruto",
+      "expresion": "ingresos − costo"
+    },
+    {
+      "nombre": "Margen porcentual",
+      "expresion": "margen bruto / ingresos × 100"
+    },
+    {
+      "nombre": "Ticket promedio",
+      "expresion": "ingresos / número de ventas"
+    },
+    {
+      "nombre": "Cliente recurrente",
+      "expresion": "cliente con 3 o más ventas"
+    }
+  ],
+  "validacion": {
+    "clientes": 300,
+    "productos": 80,
+    "ventas": 1500,
+    "lineas": 4437,
+    "ventas_sin_detalle": 0,
+    "precios_bajo_costo": 0
+  }
+}

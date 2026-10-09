@@ -1,0 +1,1501 @@
+id_registro,fecha,area,responsable,actividad,meta,resultado,horas_trabajadas,estado
+1,2025-01-02,Calidad,Esteban Gil,Inspección de lote,27,26,8,Parcial
+2,2025-01-02,Calidad,Natalia Ríos,Reinspección de lote,19,17,5,Parcial
+3,2025-01-02,Logística,Valentina León,Despacho regional,7,6,7,Parcial
+4,2025-01-02,Logística,Valentina León,Despacho urbano,18,16,10,Parcial
+5,2025-01-02,Producción,Helena Cruz,Corte en cultivo,370,364,7,Parcial
+6,2025-01-02,Producción,Helena Cruz,Preparación de ramos,239,209,7,Parcial
+7,2025-01-03,Empaque,Felipe Rojas,Armado de cajas,132,114,8,Parcial
+8,2025-01-03,Empaque,Camila Torres,Etiquetado,150,130,8,Parcial
+9,2025-01-03,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,4,6,Parcial
+10,2025-01-03,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,7,7,Parcial
+11,2025-01-03,Producción,Helena Cruz,Corte en cultivo,355,335,8,Parcial
+12,2025-01-03,Producción,Mario Pineda,Preparación de ramos,228,207,9,Parcial
+13,2025-01-06,Calidad,Esteban Gil,Inspección de lote,29,29,6,Cumplida
+14,2025-01-06,Calidad,Natalia Ríos,Reinspección de lote,16,15,6,Parcial
+15,2025-01-06,Empaque,Felipe Rojas,Armado de cajas,122,108,8,Parcial
+16,2025-01-06,Empaque,Camila Torres,Etiquetado,132,114,7,Parcial
+17,2025-01-06,Logística,Oscar Duarte,Despacho regional,7,6,6,Parcial
+18,2025-01-06,Logística,Oscar Duarte,Despacho urbano,16,14,9,Parcial
+19,2025-01-07,Calidad,Esteban Gil,Inspección de lote,33,32,7,Parcial
+20,2025-01-07,Calidad,Natalia Ríos,Reinspección de lote,17,17,7,Cumplida
+21,2025-01-07,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,4,6,Parcial
+22,2025-01-07,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,7,8,Parcial
+23,2025-01-07,Producción,Mario Pineda,Corte en cultivo,345,309,8,Parcial
+24,2025-01-07,Producción,Helena Cruz,Preparación de ramos,237,215,8,Parcial
+25,2025-01-08,Empaque,Camila Torres,Armado de cajas,140,123,7,Parcial
+26,2025-01-08,Empaque,Felipe Rojas,Etiquetado,144,117,7,Parcial
+27,2025-01-08,Logística,Oscar Duarte,Despacho regional,8,7,6,Parcial
+28,2025-01-08,Logística,Valentina León,Despacho urbano,17,15,9,Parcial
+29,2025-01-08,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,4,5,Parcial
+30,2025-01-08,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,7,6,Parcial
+31,2025-01-09,Calidad,Esteban Gil,Inspección de lote,32,31,7,Parcial
+32,2025-01-09,Calidad,Natalia Ríos,Reinspección de lote,20,18,5,Parcial
+33,2025-01-09,Logística,Valentina León,Despacho regional,8,7,7,Parcial
+34,2025-01-09,Logística,Oscar Duarte,Despacho urbano,16,14,7,Parcial
+35,2025-01-09,Producción,Helena Cruz,Corte en cultivo,275,243,8,Parcial
+36,2025-01-09,Producción,Mario Pineda,Preparación de ramos,273,250,7,Parcial
+37,2025-01-10,Empaque,Camila Torres,Armado de cajas,137,128,7,Parcial
+38,2025-01-10,Empaque,Camila Torres,Etiquetado,132,108,6,Parcial
+39,2025-01-10,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,4,6,Parcial
+40,2025-01-10,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,6,7,No cumplida
+41,2025-01-10,Producción,Helena Cruz,Corte en cultivo,369,353,8,Parcial
+42,2025-01-10,Producción,Mario Pineda,Preparación de ramos,244,226,8,Parcial
+43,2025-01-13,Calidad,Natalia Ríos,Inspección de lote,27,25,7,Parcial
+44,2025-01-13,Calidad,Natalia Ríos,Reinspección de lote,18,17,6,Parcial
+45,2025-01-13,Empaque,Camila Torres,Armado de cajas,121,107,8,Parcial
+46,2025-01-13,Empaque,Camila Torres,Etiquetado,146,122,7,Parcial
+47,2025-01-13,Logística,Oscar Duarte,Despacho regional,8,7,7,Parcial
+48,2025-01-13,Logística,Valentina León,Despacho urbano,17,15,9,Parcial
+49,2025-01-14,Calidad,Natalia Ríos,Inspección de lote,32,31,7,Parcial
+50,2025-01-14,Calidad,Esteban Gil,Reinspección de lote,19,18,5,Parcial
+51,2025-01-14,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,4,6,Parcial
+52,2025-01-14,Mantenimiento,Diana Pardo,Revisión de equipos,8,6,7,No cumplida
+53,2025-01-14,Producción,Mario Pineda,Corte en cultivo,392,361,7,Parcial
+54,2025-01-14,Producción,Mario Pineda,Preparación de ramos,244,220,8,Parcial
+55,2025-01-15,Empaque,Felipe Rojas,Armado de cajas,137,124,8,Parcial
+56,2025-01-15,Empaque,Felipe Rojas,Etiquetado,134,105,7,No cumplida
+57,2025-01-15,Logística,Valentina León,Despacho regional,7,6,7,Parcial
+58,2025-01-15,Logística,Valentina León,Despacho urbano,15,13,9,Parcial
+59,2025-01-15,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,5,Parcial
+60,2025-01-15,Mantenimiento,Diana Pardo,Revisión de equipos,8,7,8,Parcial
+61,2025-01-16,Calidad,Natalia Ríos,Inspección de lote,28,27,6,Parcial
+62,2025-01-16,Calidad,Natalia Ríos,Reinspección de lote,18,17,6,Parcial
+63,2025-01-16,Logística,Valentina León,Despacho regional,7,6,7,Parcial
+64,2025-01-16,Logística,Valentina León,Despacho urbano,16,13,8,Parcial
+65,2025-01-16,Producción,Mario Pineda,Corte en cultivo,301,279,8,Parcial
+66,2025-01-16,Producción,Mario Pineda,Preparación de ramos,188,169,8,Parcial
+67,2025-01-17,Empaque,Felipe Rojas,Armado de cajas,124,117,9,Parcial
+68,2025-01-17,Empaque,Felipe Rojas,Etiquetado,146,136,7,Parcial
+69,2025-01-17,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,4,6,Parcial
+70,2025-01-17,Mantenimiento,Ricardo Salazar,Revisión de equipos,7,6,6,Parcial
+71,2025-01-17,Producción,Helena Cruz,Corte en cultivo,374,338,8,Parcial
+72,2025-01-17,Producción,Mario Pineda,Preparación de ramos,227,198,8,Parcial
+73,2025-01-20,Calidad,Natalia Ríos,Inspección de lote,30,29,8,Parcial
+74,2025-01-20,Calidad,Natalia Ríos,Reinspección de lote,16,15,6,Parcial
+75,2025-01-20,Empaque,Felipe Rojas,Armado de cajas,120,106,7,Parcial
+76,2025-01-20,Empaque,Felipe Rojas,Etiquetado,145,123,7,Parcial
+77,2025-01-20,Logística,Oscar Duarte,Despacho regional,8,7,8,Parcial
+78,2025-01-20,Logística,Valentina León,Despacho urbano,16,15,7,Parcial
+79,2025-01-21,Calidad,Esteban Gil,Inspección de lote,32,31,6,Parcial
+80,2025-01-21,Calidad,Natalia Ríos,Reinspección de lote,16,16,6,Cumplida
+81,2025-01-21,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,6,Parcial
+82,2025-01-21,Mantenimiento,Diana Pardo,Revisión de equipos,8,7,6,Parcial
+83,2025-01-21,Producción,Mario Pineda,Corte en cultivo,331,301,7,Parcial
+84,2025-01-21,Producción,Mario Pineda,Preparación de ramos,261,217,8,Parcial
+85,2025-01-22,Empaque,Felipe Rojas,Armado de cajas,137,123,8,Parcial
+86,2025-01-22,Empaque,Camila Torres,Etiquetado,139,123,7,Parcial
+87,2025-01-22,Logística,Oscar Duarte,Despacho regional,8,7,8,Parcial
+88,2025-01-22,Logística,Oscar Duarte,Despacho urbano,15,13,8,Parcial
+89,2025-01-22,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,3,6,No cumplida
+90,2025-01-22,Mantenimiento,Diana Pardo,Revisión de equipos,8,7,7,Parcial
+91,2025-01-23,Calidad,Natalia Ríos,Inspección de lote,29,28,8,Parcial
+92,2025-01-23,Calidad,Esteban Gil,Reinspección de lote,19,18,7,Parcial
+93,2025-01-23,Logística,Oscar Duarte,Despacho regional,8,7,7,Parcial
+94,2025-01-23,Logística,Oscar Duarte,Despacho urbano,17,15,7,Parcial
+95,2025-01-23,Producción,Mario Pineda,Corte en cultivo,408,366,9,Parcial
+96,2025-01-23,Producción,Mario Pineda,Preparación de ramos,248,214,8,Parcial
+97,2025-01-24,Empaque,Camila Torres,Armado de cajas,138,122,8,Parcial
+98,2025-01-24,Empaque,Camila Torres,Etiquetado,144,122,7,Parcial
+99,2025-01-24,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,5,Parcial
+100,2025-01-24,Mantenimiento,Diana Pardo,Revisión de equipos,8,7,9,Parcial
+101,2025-01-24,Producción,Mario Pineda,Corte en cultivo,348,329,7,Parcial
+102,2025-01-24,Producción,Mario Pineda,Preparación de ramos,255,243,9,Parcial
+103,2025-01-27,Calidad,Natalia Ríos,Inspección de lote,32,34,7,Cumplida
+104,2025-01-27,Calidad,Natalia Ríos,Reinspección de lote,18,17,7,Parcial
+105,2025-01-27,Empaque,Felipe Rojas,Armado de cajas,129,117,8,Parcial
+106,2025-01-27,Empaque,Felipe Rojas,Etiquetado,135,125,8,Parcial
+107,2025-01-27,Logística,Valentina León,Despacho regional,8,6,5,No cumplida
+108,2025-01-27,Logística,Valentina León,Despacho urbano,16,15,9,Parcial
+109,2025-01-28,Calidad,Natalia Ríos,Inspección de lote,32,31,6,Parcial
+110,2025-01-28,Calidad,Esteban Gil,Reinspección de lote,18,16,5,Parcial
+111,2025-01-28,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,6,Parcial
+112,2025-01-28,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,6,8,No cumplida
+113,2025-01-28,Producción,Helena Cruz,Corte en cultivo,335,308,8,Parcial
+114,2025-01-28,Producción,Mario Pineda,Preparación de ramos,236,225,8,Parcial
+115,2025-01-29,Empaque,Felipe Rojas,Armado de cajas,148,139,6,Parcial
+116,2025-01-29,Empaque,Felipe Rojas,Etiquetado,146,131,7,Parcial
+117,2025-01-29,Logística,Oscar Duarte,Despacho regional,8,7,7,Parcial
+118,2025-01-29,Logística,Valentina León,Despacho urbano,15,14,8,Parcial
+119,2025-01-29,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,4,7,Parcial
+120,2025-01-29,Mantenimiento,Ricardo Salazar,Revisión de equipos,9,8,8,Parcial
+121,2025-01-30,Calidad,Esteban Gil,Inspección de lote,31,29,6,Parcial
+122,2025-01-30,Calidad,Esteban Gil,Reinspección de lote,16,16,6,Cumplida
+123,2025-01-30,Logística,Valentina León,Despacho regional,7,6,5,Parcial
+124,2025-01-30,Logística,Valentina León,Despacho urbano,16,14,7,Parcial
+125,2025-01-30,Producción,Helena Cruz,Corte en cultivo,328,331,8,Cumplida
+126,2025-01-30,Producción,Mario Pineda,Preparación de ramos,243,223,7,Parcial
+127,2025-01-31,Empaque,Felipe Rojas,Armado de cajas,126,116,9,Parcial
+128,2025-01-31,Empaque,Camila Torres,Etiquetado,146,121,8,Parcial
+129,2025-01-31,Mantenimiento,Diana Pardo,Mantenimiento preventivo,6,5,6,Parcial
+130,2025-01-31,Mantenimiento,Diana Pardo,Revisión de equipos,8,7,6,Parcial
+131,2025-01-31,Producción,Helena Cruz,Corte en cultivo,376,350,8,Parcial
+132,2025-01-31,Producción,Helena Cruz,Preparación de ramos,247,223,8,Parcial
+133,2025-02-03,Calidad,Esteban Gil,Inspección de lote,28,25,7,Parcial
+134,2025-02-03,Calidad,Natalia Ríos,Reinspección de lote,19,16,7,Parcial
+135,2025-02-03,Empaque,Camila Torres,Armado de cajas,131,113,8,Parcial
+136,2025-02-03,Empaque,Camila Torres,Etiquetado,138,120,7,Parcial
+137,2025-02-03,Logística,Valentina León,Despacho regional,9,7,7,No cumplida
+138,2025-02-03,Logística,Oscar Duarte,Despacho urbano,16,14,6,Parcial
+139,2025-02-04,Calidad,Natalia Ríos,Inspección de lote,30,27,7,Parcial
+140,2025-02-04,Calidad,Esteban Gil,Reinspección de lote,18,16,6,Parcial
+141,2025-02-04,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,7,Parcial
+142,2025-02-04,Mantenimiento,Diana Pardo,Revisión de equipos,8,6,8,No cumplida
+143,2025-02-04,Producción,Mario Pineda,Corte en cultivo,402,357,8,Parcial
+144,2025-02-04,Producción,Helena Cruz,Preparación de ramos,204,178,8,Parcial
+145,2025-02-05,Empaque,Camila Torres,Armado de cajas,133,109,8,Parcial
+146,2025-02-05,Empaque,Felipe Rojas,Etiquetado,121,110,7,Parcial
+147,2025-02-05,Logística,Oscar Duarte,Despacho regional,7,6,7,Parcial
+148,2025-02-05,Logística,Oscar Duarte,Despacho urbano,18,16,8,Parcial
+149,2025-02-05,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,3,7,No cumplida
+150,2025-02-05,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,6,6,No cumplida
+151,2025-02-06,Calidad,Esteban Gil,Inspección de lote,32,31,7,Parcial
+152,2025-02-06,Calidad,Natalia Ríos,Reinspección de lote,18,17,7,Parcial
+153,2025-02-06,Logística,Oscar Duarte,Despacho regional,8,7,7,Parcial
+154,2025-02-06,Logística,Oscar Duarte,Despacho urbano,16,14,8,Parcial
+155,2025-02-06,Producción,Mario Pineda,Corte en cultivo,382,350,7,Parcial
+156,2025-02-06,Producción,Mario Pineda,Preparación de ramos,229,203,9,Parcial
+157,2025-02-07,Empaque,Felipe Rojas,Armado de cajas,129,102,8,No cumplida
+158,2025-02-07,Empaque,Camila Torres,Etiquetado,140,119,7,Parcial
+159,2025-02-07,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,3,5,No cumplida
+160,2025-02-07,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,6,6,No cumplida
+161,2025-02-07,Producción,Helena Cruz,Corte en cultivo,404,370,8,Parcial
+162,2025-02-07,Producción,Helena Cruz,Preparación de ramos,230,190,9,Parcial
+163,2025-02-10,Calidad,Esteban Gil,Inspección de lote,29,29,7,Cumplida
+164,2025-02-10,Calidad,Natalia Ríos,Reinspección de lote,20,17,5,Parcial
+165,2025-02-10,Empaque,Felipe Rojas,Armado de cajas,143,120,8,Parcial
+166,2025-02-10,Empaque,Felipe Rojas,Etiquetado,140,119,7,Parcial
+167,2025-02-10,Logística,Valentina León,Despacho regional,7,6,6,Parcial
+168,2025-02-10,Logística,Valentina León,Despacho urbano,16,14,9,Parcial
+169,2025-02-11,Calidad,Natalia Ríos,Inspección de lote,26,24,8,Parcial
+170,2025-02-11,Calidad,Esteban Gil,Reinspección de lote,16,14,6,Parcial
+171,2025-02-11,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,4,6,Parcial
+172,2025-02-11,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,6,7,No cumplida
+173,2025-02-11,Producción,Mario Pineda,Corte en cultivo,368,325,6,Parcial
+174,2025-02-11,Producción,Mario Pineda,Preparación de ramos,245,200,8,Parcial
+175,2025-02-12,Empaque,Felipe Rojas,Armado de cajas,128,113,8,Parcial
+176,2025-02-12,Empaque,Camila Torres,Etiquetado,149,125,6,Parcial
+177,2025-02-12,Logística,Oscar Duarte,Despacho regional,8,7,7,Parcial
+178,2025-02-12,Logística,Valentina León,Despacho urbano,18,15,9,Parcial
+179,2025-02-12,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,3,6,No cumplida
+180,2025-02-12,Mantenimiento,Diana Pardo,Revisión de equipos,8,6,7,No cumplida
+181,2025-02-13,Calidad,Esteban Gil,Inspección de lote,28,27,7,Parcial
+182,2025-02-13,Calidad,Esteban Gil,Reinspección de lote,20,19,6,Parcial
+183,2025-02-13,Logística,Oscar Duarte,Despacho regional,7,5,7,No cumplida
+184,2025-02-13,Logística,Valentina León,Despacho urbano,16,14,8,Parcial
+185,2025-02-13,Producción,Helena Cruz,Corte en cultivo,359,345,8,Parcial
+186,2025-02-13,Producción,Mario Pineda,Preparación de ramos,280,222,9,No cumplida
+187,2025-02-14,Empaque,Camila Torres,Armado de cajas,129,116,7,Parcial
+188,2025-02-14,Empaque,Felipe Rojas,Etiquetado,128,104,7,Parcial
+189,2025-02-14,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,4,3,7,No cumplida
+190,2025-02-14,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,6,7,No cumplida
+191,2025-02-14,Producción,Helena Cruz,Corte en cultivo,336,299,7,Parcial
+192,2025-02-14,Producción,Mario Pineda,Preparación de ramos,252,244,8,Parcial
+193,2025-02-17,Calidad,Esteban Gil,Inspección de lote,28,26,6,Parcial
+194,2025-02-17,Calidad,Esteban Gil,Reinspección de lote,18,17,6,Parcial
+195,2025-02-17,Empaque,Camila Torres,Armado de cajas,126,98,9,No cumplida
+196,2025-02-17,Empaque,Camila Torres,Etiquetado,150,128,8,Parcial
+197,2025-02-17,Logística,Oscar Duarte,Despacho regional,7,5,7,No cumplida
+198,2025-02-17,Logística,Valentina León,Despacho urbano,15,13,8,Parcial
+199,2025-02-18,Calidad,Natalia Ríos,Inspección de lote,30,29,7,Parcial
+200,2025-02-18,Calidad,Natalia Ríos,Reinspección de lote,19,17,6,Parcial
+201,2025-02-18,Mantenimiento,Diana Pardo,Mantenimiento preventivo,6,4,6,No cumplida
+202,2025-02-18,Mantenimiento,Diana Pardo,Revisión de equipos,8,6,7,No cumplida
+203,2025-02-18,Producción,Helena Cruz,Corte en cultivo,369,351,7,Parcial
+204,2025-02-18,Producción,Helena Cruz,Preparación de ramos,244,238,7,Parcial
+205,2025-02-19,Empaque,Camila Torres,Armado de cajas,134,127,8,Parcial
+206,2025-02-19,Empaque,Camila Torres,Etiquetado,144,118,7,Parcial
+207,2025-02-19,Logística,Oscar Duarte,Despacho regional,8,7,7,Parcial
+208,2025-02-19,Logística,Oscar Duarte,Despacho urbano,18,15,8,Parcial
+209,2025-02-19,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,3,6,No cumplida
+210,2025-02-19,Mantenimiento,Diana Pardo,Revisión de equipos,9,7,7,No cumplida
+211,2025-02-20,Calidad,Natalia Ríos,Inspección de lote,28,26,6,Parcial
+212,2025-02-20,Calidad,Esteban Gil,Reinspección de lote,19,18,5,Parcial
+213,2025-02-20,Logística,Oscar Duarte,Despacho regional,8,7,7,Parcial
+214,2025-02-20,Logística,Valentina León,Despacho urbano,18,16,9,Parcial
+215,2025-02-20,Producción,Helena Cruz,Corte en cultivo,382,340,7,Parcial
+216,2025-02-20,Producción,Helena Cruz,Preparación de ramos,232,197,9,Parcial
+217,2025-02-21,Empaque,Camila Torres,Armado de cajas,131,116,8,Parcial
+218,2025-02-21,Empaque,Camila Torres,Etiquetado,139,119,7,Parcial
+219,2025-02-21,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,4,Parcial
+220,2025-02-21,Mantenimiento,Diana Pardo,Revisión de equipos,8,7,8,Parcial
+221,2025-02-21,Producción,Mario Pineda,Corte en cultivo,366,321,8,Parcial
+222,2025-02-21,Producción,Mario Pineda,Preparación de ramos,248,242,8,Parcial
+223,2025-02-24,Calidad,Natalia Ríos,Inspección de lote,31,27,8,Parcial
+224,2025-02-24,Calidad,Natalia Ríos,Reinspección de lote,18,17,7,Parcial
+225,2025-02-24,Empaque,Camila Torres,Armado de cajas,128,110,8,Parcial
+226,2025-02-24,Empaque,Camila Torres,Etiquetado,121,104,8,Parcial
+227,2025-02-24,Logística,Oscar Duarte,Despacho regional,7,6,8,Parcial
+228,2025-02-24,Logística,Oscar Duarte,Despacho urbano,17,15,8,Parcial
+229,2025-02-25,Calidad,Esteban Gil,Inspección de lote,30,29,8,Parcial
+230,2025-02-25,Calidad,Esteban Gil,Reinspección de lote,15,13,5,Parcial
+231,2025-02-25,Mantenimiento,Diana Pardo,Mantenimiento preventivo,6,4,5,No cumplida
+232,2025-02-25,Mantenimiento,Diana Pardo,Revisión de equipos,8,6,6,No cumplida
+233,2025-02-25,Producción,Mario Pineda,Corte en cultivo,366,332,9,Parcial
+234,2025-02-25,Producción,Mario Pineda,Preparación de ramos,256,232,7,Parcial
+235,2025-02-26,Empaque,Camila Torres,Armado de cajas,120,111,8,Parcial
+236,2025-02-26,Empaque,Felipe Rojas,Etiquetado,119,105,8,Parcial
+237,2025-02-26,Logística,Oscar Duarte,Despacho regional,7,6,7,Parcial
+238,2025-02-26,Logística,Oscar Duarte,Despacho urbano,15,13,8,Parcial
+239,2025-02-26,Mantenimiento,Diana Pardo,Mantenimiento preventivo,4,3,7,No cumplida
+240,2025-02-26,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,6,7,No cumplida
+241,2025-02-27,Calidad,Esteban Gil,Inspección de lote,29,26,7,Parcial
+242,2025-02-27,Calidad,Esteban Gil,Reinspección de lote,20,18,6,Parcial
+243,2025-02-27,Logística,Oscar Duarte,Despacho regional,8,7,8,Parcial
+244,2025-02-27,Logística,Oscar Duarte,Despacho urbano,15,13,8,Parcial
+245,2025-02-27,Producción,Mario Pineda,Corte en cultivo,366,353,8,Parcial
+246,2025-02-27,Producción,Helena Cruz,Preparación de ramos,259,224,8,Parcial
+247,2025-02-28,Empaque,Felipe Rojas,Armado de cajas,139,122,7,Parcial
+248,2025-02-28,Empaque,Felipe Rojas,Etiquetado,141,117,8,Parcial
+249,2025-02-28,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,4,6,Parcial
+250,2025-02-28,Mantenimiento,Ricardo Salazar,Revisión de equipos,7,5,7,No cumplida
+251,2025-02-28,Producción,Helena Cruz,Corte en cultivo,376,310,7,Parcial
+252,2025-02-28,Producción,Mario Pineda,Preparación de ramos,246,207,8,Parcial
+253,2025-03-03,Calidad,Esteban Gil,Inspección de lote,27,27,8,Cumplida
+254,2025-03-03,Calidad,Natalia Ríos,Reinspección de lote,20,19,7,Parcial
+255,2025-03-03,Empaque,Camila Torres,Armado de cajas,145,136,9,Parcial
+256,2025-03-03,Empaque,Camila Torres,Etiquetado,144,126,6,Parcial
+257,2025-03-03,Logística,Oscar Duarte,Despacho regional,8,7,6,Parcial
+258,2025-03-03,Logística,Oscar Duarte,Despacho urbano,17,16,8,Parcial
+259,2025-03-04,Calidad,Esteban Gil,Inspección de lote,30,28,8,Parcial
+260,2025-03-04,Calidad,Esteban Gil,Reinspección de lote,18,18,5,Cumplida
+261,2025-03-04,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,3,7,No cumplida
+262,2025-03-04,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,6,7,No cumplida
+263,2025-03-04,Producción,Mario Pineda,Corte en cultivo,391,355,7,Parcial
+264,2025-03-04,Producción,Mario Pineda,Preparación de ramos,260,216,9,Parcial
+265,2025-03-05,Empaque,Camila Torres,Armado de cajas,109,98,8,Parcial
+266,2025-03-05,Empaque,Felipe Rojas,Etiquetado,140,117,8,Parcial
+267,2025-03-05,Logística,Valentina León,Despacho regional,10,9,6,Parcial
+268,2025-03-05,Logística,Valentina León,Despacho urbano,18,15,7,Parcial
+269,2025-03-05,Mantenimiento,Diana Pardo,Mantenimiento preventivo,4,3,6,No cumplida
+270,2025-03-05,Mantenimiento,Diana Pardo,Revisión de equipos,8,6,6,No cumplida
+271,2025-03-06,Calidad,Esteban Gil,Inspección de lote,31,28,7,Parcial
+272,2025-03-06,Calidad,Natalia Ríos,Reinspección de lote,18,17,7,Parcial
+273,2025-03-06,Logística,Oscar Duarte,Despacho regional,8,6,7,No cumplida
+274,2025-03-06,Logística,Oscar Duarte,Despacho urbano,16,14,9,Parcial
+275,2025-03-06,Producción,Helena Cruz,Corte en cultivo,305,278,7,Parcial
+276,2025-03-06,Producción,Mario Pineda,Preparación de ramos,250,233,8,Parcial
+277,2025-03-07,Empaque,Felipe Rojas,Armado de cajas,130,118,8,Parcial
+278,2025-03-07,Empaque,Felipe Rojas,Etiquetado,138,126,7,Parcial
+279,2025-03-07,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,5,Parcial
+280,2025-03-07,Mantenimiento,Diana Pardo,Revisión de equipos,8,6,6,No cumplida
+281,2025-03-07,Producción,Mario Pineda,Corte en cultivo,309,264,7,Parcial
+282,2025-03-07,Producción,Helena Cruz,Preparación de ramos,241,207,8,Parcial
+283,2025-03-10,Calidad,Natalia Ríos,Inspección de lote,29,29,8,Cumplida
+284,2025-03-10,Calidad,Natalia Ríos,Reinspección de lote,19,19,6,Cumplida
+285,2025-03-10,Empaque,Felipe Rojas,Armado de cajas,145,127,9,Parcial
+286,2025-03-10,Empaque,Camila Torres,Etiquetado,131,108,7,Parcial
+287,2025-03-10,Logística,Oscar Duarte,Despacho regional,8,7,6,Parcial
+288,2025-03-10,Logística,Valentina León,Despacho urbano,14,12,8,Parcial
+289,2025-03-11,Calidad,Natalia Ríos,Inspección de lote,30,29,7,Parcial
+290,2025-03-11,Calidad,Esteban Gil,Reinspección de lote,18,18,5,Cumplida
+291,2025-03-11,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,3,6,No cumplida
+292,2025-03-11,Mantenimiento,Ricardo Salazar,Revisión de equipos,9,7,6,No cumplida
+293,2025-03-11,Producción,Helena Cruz,Corte en cultivo,378,342,7,Parcial
+294,2025-03-11,Producción,Helena Cruz,Preparación de ramos,239,215,8,Parcial
+295,2025-03-12,Empaque,Felipe Rojas,Armado de cajas,123,110,8,Parcial
+296,2025-03-12,Empaque,Felipe Rojas,Etiquetado,126,109,7,Parcial
+297,2025-03-12,Logística,Oscar Duarte,Despacho regional,8,7,6,Parcial
+298,2025-03-12,Logística,Oscar Duarte,Despacho urbano,19,16,8,Parcial
+299,2025-03-12,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,4,7,Parcial
+300,2025-03-12,Mantenimiento,Diana Pardo,Revisión de equipos,8,6,7,No cumplida
+301,2025-03-13,Calidad,Esteban Gil,Inspección de lote,28,27,6,Parcial
+302,2025-03-13,Calidad,Esteban Gil,Reinspección de lote,17,16,6,Parcial
+303,2025-03-13,Logística,Valentina León,Despacho regional,8,7,6,Parcial
+304,2025-03-13,Logística,Oscar Duarte,Despacho urbano,16,14,9,Parcial
+305,2025-03-13,Producción,Helena Cruz,Corte en cultivo,396,360,8,Parcial
+306,2025-03-13,Producción,Mario Pineda,Preparación de ramos,231,214,8,Parcial
+307,2025-03-14,Empaque,Felipe Rojas,Armado de cajas,125,111,8,Parcial
+308,2025-03-14,Empaque,Felipe Rojas,Etiquetado,148,128,7,Parcial
+309,2025-03-14,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,6,Parcial
+310,2025-03-14,Mantenimiento,Ricardo Salazar,Revisión de equipos,9,7,8,No cumplida
+311,2025-03-14,Producción,Helena Cruz,Corte en cultivo,327,310,7,Parcial
+312,2025-03-14,Producción,Mario Pineda,Preparación de ramos,255,223,8,Parcial
+313,2025-03-17,Calidad,Natalia Ríos,Inspección de lote,30,28,7,Parcial
+314,2025-03-17,Calidad,Natalia Ríos,Reinspección de lote,17,15,6,Parcial
+315,2025-03-17,Empaque,Felipe Rojas,Armado de cajas,115,104,8,Parcial
+316,2025-03-17,Empaque,Felipe Rojas,Etiquetado,144,128,8,Parcial
+317,2025-03-17,Logística,Oscar Duarte,Despacho regional,8,7,7,Parcial
+318,2025-03-17,Logística,Valentina León,Despacho urbano,15,13,8,Parcial
+319,2025-03-18,Calidad,Natalia Ríos,Inspección de lote,35,32,6,Parcial
+320,2025-03-18,Calidad,Esteban Gil,Reinspección de lote,18,17,7,Parcial
+321,2025-03-18,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,4,6,Parcial
+322,2025-03-18,Mantenimiento,Diana Pardo,Revisión de equipos,7,6,7,Parcial
+323,2025-03-18,Producción,Helena Cruz,Corte en cultivo,324,294,9,Parcial
+324,2025-03-18,Producción,Helena Cruz,Preparación de ramos,252,227,8,Parcial
+325,2025-03-19,Empaque,Camila Torres,Armado de cajas,113,97,7,Parcial
+326,2025-03-19,Empaque,Felipe Rojas,Etiquetado,160,134,8,Parcial
+327,2025-03-19,Logística,Valentina León,Despacho regional,8,7,8,Parcial
+328,2025-03-19,Logística,Oscar Duarte,Despacho urbano,14,13,9,Parcial
+329,2025-03-19,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,3,6,No cumplida
+330,2025-03-19,Mantenimiento,Diana Pardo,Revisión de equipos,7,5,7,No cumplida
+331,2025-03-20,Calidad,Natalia Ríos,Inspección de lote,28,27,6,Parcial
+332,2025-03-20,Calidad,Esteban Gil,Reinspección de lote,17,16,7,Parcial
+333,2025-03-20,Logística,Oscar Duarte,Despacho regional,7,6,6,Parcial
+334,2025-03-20,Logística,Valentina León,Despacho urbano,17,15,8,Parcial
+335,2025-03-20,Producción,Helena Cruz,Corte en cultivo,403,372,9,Parcial
+336,2025-03-20,Producción,Mario Pineda,Preparación de ramos,235,219,8,Parcial
+337,2025-03-21,Empaque,Camila Torres,Armado de cajas,137,118,7,Parcial
+338,2025-03-21,Empaque,Camila Torres,Etiquetado,134,108,8,Parcial
+339,2025-03-21,Mantenimiento,Diana Pardo,Mantenimiento preventivo,4,3,6,No cumplida
+340,2025-03-21,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,6,7,No cumplida
+341,2025-03-21,Producción,Mario Pineda,Corte en cultivo,371,325,8,Parcial
+342,2025-03-21,Producción,Helena Cruz,Preparación de ramos,267,232,8,Parcial
+343,2025-03-24,Calidad,Esteban Gil,Inspección de lote,31,30,8,Parcial
+344,2025-03-24,Calidad,Esteban Gil,Reinspección de lote,16,16,5,Cumplida
+345,2025-03-24,Empaque,Felipe Rojas,Armado de cajas,120,107,8,Parcial
+346,2025-03-24,Empaque,Felipe Rojas,Etiquetado,155,135,7,Parcial
+347,2025-03-24,Logística,Valentina León,Despacho regional,8,6,7,No cumplida
+348,2025-03-24,Logística,Oscar Duarte,Despacho urbano,17,16,8,Parcial
+349,2025-03-25,Calidad,Natalia Ríos,Inspección de lote,32,32,8,Cumplida
+350,2025-03-25,Calidad,Esteban Gil,Reinspección de lote,16,15,6,Parcial
+351,2025-03-25,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,4,7,Parcial
+352,2025-03-25,Mantenimiento,Diana Pardo,Revisión de equipos,8,6,8,No cumplida
+353,2025-03-25,Producción,Mario Pineda,Corte en cultivo,329,297,8,Parcial
+354,2025-03-25,Producción,Mario Pineda,Preparación de ramos,217,186,7,Parcial
+355,2025-03-26,Empaque,Camila Torres,Armado de cajas,136,118,7,Parcial
+356,2025-03-26,Empaque,Felipe Rojas,Etiquetado,125,108,7,Parcial
+357,2025-03-26,Logística,Valentina León,Despacho regional,8,6,7,No cumplida
+358,2025-03-26,Logística,Valentina León,Despacho urbano,15,13,8,Parcial
+359,2025-03-26,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,5,Parcial
+360,2025-03-26,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,6,5,No cumplida
+361,2025-03-27,Calidad,Natalia Ríos,Inspección de lote,31,30,8,Parcial
+362,2025-03-27,Calidad,Natalia Ríos,Reinspección de lote,17,16,6,Parcial
+363,2025-03-27,Logística,Oscar Duarte,Despacho regional,8,7,7,Parcial
+364,2025-03-27,Logística,Valentina León,Despacho urbano,15,14,8,Parcial
+365,2025-03-27,Producción,Helena Cruz,Corte en cultivo,304,288,8,Parcial
+366,2025-03-27,Producción,Helena Cruz,Preparación de ramos,211,184,9,Parcial
+367,2025-03-28,Empaque,Camila Torres,Armado de cajas,125,106,7,Parcial
+368,2025-03-28,Empaque,Camila Torres,Etiquetado,145,122,7,Parcial
+369,2025-03-28,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,6,4,6,No cumplida
+370,2025-03-28,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,6,7,No cumplida
+371,2025-03-28,Producción,Helena Cruz,Corte en cultivo,355,330,9,Parcial
+372,2025-03-28,Producción,Mario Pineda,Preparación de ramos,225,197,8,Parcial
+373,2025-03-31,Calidad,Esteban Gil,Inspección de lote,29,27,7,Parcial
+374,2025-03-31,Calidad,Esteban Gil,Reinspección de lote,18,16,6,Parcial
+375,2025-03-31,Empaque,Camila Torres,Armado de cajas,115,103,7,Parcial
+376,2025-03-31,Empaque,Camila Torres,Etiquetado,145,123,7,Parcial
+377,2025-03-31,Logística,Oscar Duarte,Despacho regional,8,7,7,Parcial
+378,2025-03-31,Logística,Oscar Duarte,Despacho urbano,16,14,8,Parcial
+379,2025-04-01,Calidad,Natalia Ríos,Inspección de lote,25,25,6,Cumplida
+380,2025-04-01,Calidad,Esteban Gil,Reinspección de lote,20,19,8,Parcial
+381,2025-04-01,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,4,5,Parcial
+382,2025-04-01,Mantenimiento,Diana Pardo,Revisión de equipos,8,7,8,Parcial
+383,2025-04-01,Producción,Mario Pineda,Corte en cultivo,373,335,8,Parcial
+384,2025-04-01,Producción,Helena Cruz,Preparación de ramos,241,215,9,Parcial
+385,2025-04-02,Empaque,Camila Torres,Armado de cajas,122,111,8,Parcial
+386,2025-04-02,Empaque,Camila Torres,Etiquetado,143,122,8,Parcial
+387,2025-04-02,Logística,Valentina León,Despacho regional,7,6,8,Parcial
+388,2025-04-02,Logística,Oscar Duarte,Despacho urbano,17,16,8,Parcial
+389,2025-04-02,Mantenimiento,Diana Pardo,Mantenimiento preventivo,6,4,7,No cumplida
+390,2025-04-02,Mantenimiento,Diana Pardo,Revisión de equipos,8,7,7,Parcial
+391,2025-04-03,Calidad,Esteban Gil,Inspección de lote,32,32,6,Cumplida
+392,2025-04-03,Calidad,Esteban Gil,Reinspección de lote,19,18,6,Parcial
+393,2025-04-03,Logística,Valentina León,Despacho regional,8,7,6,Parcial
+394,2025-04-03,Logística,Oscar Duarte,Despacho urbano,16,15,9,Parcial
+395,2025-04-03,Producción,Mario Pineda,Corte en cultivo,377,351,7,Parcial
+396,2025-04-03,Producción,Helena Cruz,Preparación de ramos,244,235,8,Parcial
+397,2025-04-04,Empaque,Camila Torres,Armado de cajas,119,113,8,Parcial
+398,2025-04-04,Empaque,Camila Torres,Etiquetado,142,128,7,Parcial
+399,2025-04-04,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,7,Parcial
+400,2025-04-04,Mantenimiento,Diana Pardo,Revisión de equipos,8,7,7,Parcial
+401,2025-04-04,Producción,Mario Pineda,Corte en cultivo,354,331,7,Parcial
+402,2025-04-04,Producción,Helena Cruz,Preparación de ramos,244,224,8,Parcial
+403,2025-04-07,Calidad,Natalia Ríos,Inspección de lote,28,27,6,Parcial
+404,2025-04-07,Calidad,Esteban Gil,Reinspección de lote,19,19,6,Cumplida
+405,2025-04-07,Empaque,Felipe Rojas,Armado de cajas,135,122,9,Parcial
+406,2025-04-07,Empaque,Felipe Rojas,Etiquetado,146,130,8,Parcial
+407,2025-04-07,Logística,Oscar Duarte,Despacho regional,7,6,7,Parcial
+408,2025-04-07,Logística,Oscar Duarte,Despacho urbano,17,15,7,Parcial
+409,2025-04-08,Calidad,Esteban Gil,Inspección de lote,30,30,7,Cumplida
+410,2025-04-08,Calidad,Esteban Gil,Reinspección de lote,17,17,7,Cumplida
+411,2025-04-08,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,4,7,Parcial
+412,2025-04-08,Mantenimiento,Diana Pardo,Revisión de equipos,7,6,7,Parcial
+413,2025-04-08,Producción,Mario Pineda,Corte en cultivo,385,348,8,Parcial
+414,2025-04-08,Producción,Helena Cruz,Preparación de ramos,261,245,9,Parcial
+415,2025-04-09,Empaque,Camila Torres,Armado de cajas,137,132,8,Parcial
+416,2025-04-09,Empaque,Felipe Rojas,Etiquetado,136,117,6,Parcial
+417,2025-04-09,Logística,Oscar Duarte,Despacho regional,7,6,7,Parcial
+418,2025-04-09,Logística,Oscar Duarte,Despacho urbano,15,13,8,Parcial
+419,2025-04-09,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,6,Parcial
+420,2025-04-09,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,6,8,No cumplida
+421,2025-04-10,Calidad,Natalia Ríos,Inspección de lote,30,28,6,Parcial
+422,2025-04-10,Calidad,Esteban Gil,Reinspección de lote,16,16,7,Cumplida
+423,2025-04-10,Logística,Oscar Duarte,Despacho regional,9,7,7,No cumplida
+424,2025-04-10,Logística,Valentina León,Despacho urbano,16,14,9,Parcial
+425,2025-04-10,Producción,Mario Pineda,Corte en cultivo,315,309,8,Parcial
+426,2025-04-10,Producción,Helena Cruz,Preparación de ramos,252,224,7,Parcial
+427,2025-04-11,Empaque,Felipe Rojas,Armado de cajas,119,104,9,Parcial
+428,2025-04-11,Empaque,Camila Torres,Etiquetado,145,121,7,Parcial
+429,2025-04-11,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,4,6,Parcial
+430,2025-04-11,Mantenimiento,Ricardo Salazar,Revisión de equipos,7,6,7,Parcial
+431,2025-04-11,Producción,Mario Pineda,Corte en cultivo,348,346,8,Parcial
+432,2025-04-11,Producción,Mario Pineda,Preparación de ramos,233,219,8,Parcial
+433,2025-04-14,Calidad,Esteban Gil,Inspección de lote,27,27,6,Cumplida
+434,2025-04-14,Calidad,Natalia Ríos,Reinspección de lote,18,18,6,Cumplida
+435,2025-04-14,Empaque,Camila Torres,Armado de cajas,128,112,7,Parcial
+436,2025-04-14,Empaque,Camila Torres,Etiquetado,133,118,7,Parcial
+437,2025-04-14,Logística,Valentina León,Despacho regional,8,7,8,Parcial
+438,2025-04-14,Logística,Oscar Duarte,Despacho urbano,15,13,6,Parcial
+439,2025-04-15,Calidad,Esteban Gil,Inspección de lote,32,31,8,Parcial
+440,2025-04-15,Calidad,Natalia Ríos,Reinspección de lote,17,17,5,Cumplida
+441,2025-04-15,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,6,Parcial
+442,2025-04-15,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,7,7,Parcial
+443,2025-04-15,Producción,Helena Cruz,Corte en cultivo,357,337,9,Parcial
+444,2025-04-15,Producción,Helena Cruz,Preparación de ramos,228,222,8,Parcial
+445,2025-04-16,Empaque,Camila Torres,Armado de cajas,133,120,9,Parcial
+446,2025-04-16,Empaque,Camila Torres,Etiquetado,145,133,8,Parcial
+447,2025-04-16,Logística,Valentina León,Despacho regional,9,8,8,Parcial
+448,2025-04-16,Logística,Oscar Duarte,Despacho urbano,15,14,9,Parcial
+449,2025-04-16,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,7,Parcial
+450,2025-04-16,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,7,7,Parcial
+451,2025-04-17,Calidad,Natalia Ríos,Inspección de lote,29,28,6,Parcial
+452,2025-04-17,Calidad,Natalia Ríos,Reinspección de lote,19,18,7,Parcial
+453,2025-04-17,Logística,Oscar Duarte,Despacho regional,8,7,7,Parcial
+454,2025-04-17,Logística,Oscar Duarte,Despacho urbano,14,13,8,Parcial
+455,2025-04-17,Producción,Helena Cruz,Corte en cultivo,360,351,8,Parcial
+456,2025-04-17,Producción,Helena Cruz,Preparación de ramos,267,244,7,Parcial
+457,2025-04-18,Empaque,Camila Torres,Armado de cajas,127,114,8,Parcial
+458,2025-04-18,Empaque,Felipe Rojas,Etiquetado,144,128,7,Parcial
+459,2025-04-18,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,7,Parcial
+460,2025-04-18,Mantenimiento,Ricardo Salazar,Revisión de equipos,9,7,8,No cumplida
+461,2025-04-18,Producción,Mario Pineda,Corte en cultivo,375,372,9,Parcial
+462,2025-04-18,Producción,Helena Cruz,Preparación de ramos,244,206,8,Parcial
+463,2025-04-21,Calidad,Natalia Ríos,Inspección de lote,32,31,7,Parcial
+464,2025-04-21,Calidad,Natalia Ríos,Reinspección de lote,15,15,6,Cumplida
+465,2025-04-21,Empaque,Felipe Rojas,Armado de cajas,122,112,7,Parcial
+466,2025-04-21,Empaque,Felipe Rojas,Etiquetado,149,128,8,Parcial
+467,2025-04-21,Logística,Oscar Duarte,Despacho regional,8,7,8,Parcial
+468,2025-04-21,Logística,Valentina León,Despacho urbano,14,13,8,Parcial
+469,2025-04-22,Calidad,Natalia Ríos,Inspección de lote,30,29,8,Parcial
+470,2025-04-22,Calidad,Esteban Gil,Reinspección de lote,16,17,7,Cumplida
+471,2025-04-22,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,3,6,No cumplida
+472,2025-04-22,Mantenimiento,Diana Pardo,Revisión de equipos,7,6,7,Parcial
+473,2025-04-22,Producción,Mario Pineda,Corte en cultivo,354,327,9,Parcial
+474,2025-04-22,Producción,Mario Pineda,Preparación de ramos,249,241,9,Parcial
+475,2025-04-23,Empaque,Camila Torres,Armado de cajas,123,114,8,Parcial
+476,2025-04-23,Empaque,Felipe Rojas,Etiquetado,152,132,6,Parcial
+477,2025-04-23,Logística,Valentina León,Despacho regional,8,7,8,Parcial
+478,2025-04-23,Logística,Oscar Duarte,Despacho urbano,14,13,7,Parcial
+479,2025-04-23,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,4,5,Parcial
+480,2025-04-23,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,6,8,No cumplida
+481,2025-04-24,Calidad,Natalia Ríos,Inspección de lote,30,31,7,Cumplida
+482,2025-04-24,Calidad,Esteban Gil,Reinspección de lote,16,16,6,Cumplida
+483,2025-04-24,Logística,Valentina León,Despacho regional,8,7,8,Parcial
+484,2025-04-24,Logística,Oscar Duarte,Despacho urbano,16,14,7,Parcial
+485,2025-04-24,Producción,Helena Cruz,Corte en cultivo,378,381,7,Cumplida
+486,2025-04-24,Producción,Helena Cruz,Preparación de ramos,246,234,8,Parcial
+487,2025-04-25,Empaque,Felipe Rojas,Armado de cajas,138,120,10,Parcial
+488,2025-04-25,Empaque,Camila Torres,Etiquetado,128,109,7,Parcial
+489,2025-04-25,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,7,Parcial
+490,2025-04-25,Mantenimiento,Ricardo Salazar,Revisión de equipos,10,8,7,Parcial
+491,2025-04-25,Producción,Helena Cruz,Corte en cultivo,387,388,8,Cumplida
+492,2025-04-25,Producción,Helena Cruz,Preparación de ramos,222,194,8,Parcial
+493,2025-04-28,Calidad,Esteban Gil,Inspección de lote,29,28,8,Parcial
+494,2025-04-28,Calidad,Esteban Gil,Reinspección de lote,18,17,5,Parcial
+495,2025-04-28,Empaque,Felipe Rojas,Armado de cajas,127,108,8,Parcial
+496,2025-04-28,Empaque,Felipe Rojas,Etiquetado,145,125,7,Parcial
+497,2025-04-28,Logística,Valentina León,Despacho regional,9,8,7,Parcial
+498,2025-04-28,Logística,Valentina León,Despacho urbano,17,16,8,Parcial
+499,2025-04-29,Calidad,Esteban Gil,Inspección de lote,32,31,7,Parcial
+500,2025-04-29,Calidad,Esteban Gil,Reinspección de lote,18,17,6,Parcial
+501,2025-04-29,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,4,7,Parcial
+502,2025-04-29,Mantenimiento,Diana Pardo,Revisión de equipos,8,6,6,No cumplida
+503,2025-04-29,Producción,Helena Cruz,Corte en cultivo,359,348,9,Parcial
+504,2025-04-29,Producción,Mario Pineda,Preparación de ramos,252,228,8,Parcial
+505,2025-04-30,Empaque,Camila Torres,Armado de cajas,155,140,9,Parcial
+506,2025-04-30,Empaque,Camila Torres,Etiquetado,134,117,8,Parcial
+507,2025-04-30,Logística,Oscar Duarte,Despacho regional,8,7,7,Parcial
+508,2025-04-30,Logística,Valentina León,Despacho urbano,20,18,8,Parcial
+509,2025-04-30,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,5,Parcial
+510,2025-04-30,Mantenimiento,Diana Pardo,Revisión de equipos,8,6,8,No cumplida
+511,2025-05-01,Calidad,Natalia Ríos,Inspección de lote,31,30,8,Parcial
+512,2025-05-01,Calidad,Natalia Ríos,Reinspección de lote,18,17,6,Parcial
+513,2025-05-01,Logística,Valentina León,Despacho regional,8,7,7,Parcial
+514,2025-05-01,Logística,Oscar Duarte,Despacho urbano,14,13,8,Parcial
+515,2025-05-01,Producción,Helena Cruz,Corte en cultivo,347,341,8,Parcial
+516,2025-05-01,Producción,Helena Cruz,Preparación de ramos,223,215,8,Parcial
+517,2025-05-02,Empaque,Felipe Rojas,Armado de cajas,141,140,8,Parcial
+518,2025-05-02,Empaque,Felipe Rojas,Etiquetado,159,142,7,Parcial
+519,2025-05-02,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,5,Parcial
+520,2025-05-02,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,7,7,Parcial
+521,2025-05-02,Producción,Mario Pineda,Corte en cultivo,366,344,8,Parcial
+522,2025-05-02,Producción,Helena Cruz,Preparación de ramos,229,235,8,Cumplida
+523,2025-05-05,Calidad,Natalia Ríos,Inspección de lote,32,33,7,Cumplida
+524,2025-05-05,Calidad,Esteban Gil,Reinspección de lote,17,18,8,Cumplida
+525,2025-05-05,Empaque,Felipe Rojas,Armado de cajas,117,111,9,Parcial
+526,2025-05-05,Empaque,Camila Torres,Etiquetado,131,118,9,Parcial
+527,2025-05-05,Logística,Valentina León,Despacho regional,8,7,8,Parcial
+528,2025-05-05,Logística,Oscar Duarte,Despacho urbano,16,14,7,Parcial
+529,2025-05-06,Calidad,Natalia Ríos,Inspección de lote,30,31,6,Cumplida
+530,2025-05-06,Calidad,Natalia Ríos,Reinspección de lote,20,19,6,Parcial
+531,2025-05-06,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,4,Parcial
+532,2025-05-06,Mantenimiento,Diana Pardo,Revisión de equipos,7,6,7,Parcial
+533,2025-05-06,Producción,Mario Pineda,Corte en cultivo,325,298,8,Parcial
+534,2025-05-06,Producción,Helena Cruz,Preparación de ramos,219,209,7,Parcial
+535,2025-05-07,Empaque,Felipe Rojas,Armado de cajas,130,118,7,Parcial
+536,2025-05-07,Empaque,Camila Torres,Etiquetado,138,127,7,Parcial
+537,2025-05-07,Logística,Oscar Duarte,Despacho regional,8,7,6,Parcial
+538,2025-05-07,Logística,Oscar Duarte,Despacho urbano,14,13,7,Parcial
+539,2025-05-07,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,6,Parcial
+540,2025-05-07,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,6,7,No cumplida
+541,2025-05-08,Calidad,Esteban Gil,Inspección de lote,35,35,8,Cumplida
+542,2025-05-08,Calidad,Esteban Gil,Reinspección de lote,19,18,6,Parcial
+543,2025-05-08,Logística,Oscar Duarte,Despacho regional,8,7,6,Parcial
+544,2025-05-08,Logística,Valentina León,Despacho urbano,16,14,8,Parcial
+545,2025-05-08,Producción,Helena Cruz,Corte en cultivo,362,353,8,Parcial
+546,2025-05-08,Producción,Mario Pineda,Preparación de ramos,238,220,8,Parcial
+547,2025-05-09,Empaque,Camila Torres,Armado de cajas,137,121,9,Parcial
+548,2025-05-09,Empaque,Camila Torres,Etiquetado,144,127,6,Parcial
+549,2025-05-09,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,4,7,Parcial
+550,2025-05-09,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,7,8,Parcial
+551,2025-05-09,Producción,Helena Cruz,Corte en cultivo,303,312,7,Cumplida
+552,2025-05-09,Producción,Helena Cruz,Preparación de ramos,235,212,9,Parcial
+553,2025-05-12,Calidad,Natalia Ríos,Inspección de lote,30,29,7,Parcial
+554,2025-05-12,Calidad,Esteban Gil,Reinspección de lote,17,17,6,Cumplida
+555,2025-05-12,Empaque,Felipe Rojas,Armado de cajas,111,99,8,Parcial
+556,2025-05-12,Empaque,Camila Torres,Etiquetado,152,136,7,Parcial
+557,2025-05-12,Logística,Valentina León,Despacho regional,8,7,8,Parcial
+558,2025-05-12,Logística,Valentina León,Despacho urbano,16,14,8,Parcial
+559,2025-05-13,Calidad,Natalia Ríos,Inspección de lote,33,34,9,Cumplida
+560,2025-05-13,Calidad,Natalia Ríos,Reinspección de lote,21,21,6,Cumplida
+561,2025-05-13,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,6,Parcial
+562,2025-05-13,Mantenimiento,Diana Pardo,Revisión de equipos,8,6,7,No cumplida
+563,2025-05-13,Producción,Mario Pineda,Corte en cultivo,411,418,9,Cumplida
+564,2025-05-13,Producción,Helena Cruz,Preparación de ramos,238,220,7,Parcial
+565,2025-05-14,Empaque,Camila Torres,Armado de cajas,138,124,8,Parcial
+566,2025-05-14,Empaque,Camila Torres,Etiquetado,143,129,8,Parcial
+567,2025-05-14,Logística,Oscar Duarte,Despacho regional,8,7,7,Parcial
+568,2025-05-14,Logística,Oscar Duarte,Despacho urbano,16,14,8,Parcial
+569,2025-05-14,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,3,6,No cumplida
+570,2025-05-14,Mantenimiento,Diana Pardo,Revisión de equipos,8,6,7,No cumplida
+571,2025-05-15,Calidad,Esteban Gil,Inspección de lote,29,29,8,Cumplida
+572,2025-05-15,Calidad,Esteban Gil,Reinspección de lote,18,18,5,Cumplida
+573,2025-05-15,Logística,Valentina León,Despacho regional,8,7,8,Parcial
+574,2025-05-15,Logística,Oscar Duarte,Despacho urbano,15,13,8,Parcial
+575,2025-05-15,Producción,Mario Pineda,Corte en cultivo,352,337,9,Parcial
+576,2025-05-15,Producción,Helena Cruz,Preparación de ramos,241,212,8,Parcial
+577,2025-05-16,Empaque,Camila Torres,Armado de cajas,133,128,9,Parcial
+578,2025-05-16,Empaque,Felipe Rojas,Etiquetado,139,126,8,Parcial
+579,2025-05-16,Mantenimiento,Diana Pardo,Mantenimiento preventivo,6,5,7,Parcial
+580,2025-05-16,Mantenimiento,Diana Pardo,Revisión de equipos,7,6,9,Parcial
+581,2025-05-16,Producción,Helena Cruz,Corte en cultivo,431,417,7,Parcial
+582,2025-05-16,Producción,Mario Pineda,Preparación de ramos,271,279,9,Cumplida
+583,2025-05-19,Calidad,Esteban Gil,Inspección de lote,26,26,6,Cumplida
+584,2025-05-19,Calidad,Esteban Gil,Reinspección de lote,21,20,5,Parcial
+585,2025-05-19,Empaque,Felipe Rojas,Armado de cajas,139,124,8,Parcial
+586,2025-05-19,Empaque,Camila Torres,Etiquetado,122,117,8,Parcial
+587,2025-05-19,Logística,Oscar Duarte,Despacho regional,9,8,8,Parcial
+588,2025-05-19,Logística,Oscar Duarte,Despacho urbano,16,14,9,Parcial
+589,2025-05-20,Calidad,Esteban Gil,Inspección de lote,28,29,9,Cumplida
+590,2025-05-20,Calidad,Natalia Ríos,Reinspección de lote,16,16,7,Cumplida
+591,2025-05-20,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,6,4,5,No cumplida
+592,2025-05-20,Mantenimiento,Diana Pardo,Revisión de equipos,8,7,7,Parcial
+593,2025-05-20,Producción,Mario Pineda,Corte en cultivo,316,297,9,Parcial
+594,2025-05-20,Producción,Mario Pineda,Preparación de ramos,273,250,8,Parcial
+595,2025-05-21,Empaque,Camila Torres,Armado de cajas,137,125,8,Parcial
+596,2025-05-21,Empaque,Felipe Rojas,Etiquetado,121,109,7,Parcial
+597,2025-05-21,Logística,Oscar Duarte,Despacho regional,9,8,8,Parcial
+598,2025-05-21,Logística,Valentina León,Despacho urbano,15,15,7,Cumplida
+599,2025-05-21,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,6,5,6,Parcial
+600,2025-05-21,Mantenimiento,Diana Pardo,Revisión de equipos,8,7,6,Parcial
+601,2025-05-22,Calidad,Esteban Gil,Inspección de lote,32,32,7,Cumplida
+602,2025-05-22,Calidad,Natalia Ríos,Reinspección de lote,19,18,6,Parcial
+603,2025-05-22,Logística,Oscar Duarte,Despacho regional,8,7,6,Parcial
+604,2025-05-22,Logística,Oscar Duarte,Despacho urbano,15,14,8,Parcial
+605,2025-05-22,Producción,Mario Pineda,Corte en cultivo,336,311,8,Parcial
+606,2025-05-22,Producción,Helena Cruz,Preparación de ramos,251,240,8,Parcial
+607,2025-05-23,Empaque,Camila Torres,Armado de cajas,137,129,9,Parcial
+608,2025-05-23,Empaque,Camila Torres,Etiquetado,143,117,8,Parcial
+609,2025-05-23,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,8,Parcial
+610,2025-05-23,Mantenimiento,Ricardo Salazar,Revisión de equipos,7,6,8,Parcial
+611,2025-05-23,Producción,Helena Cruz,Corte en cultivo,399,400,9,Cumplida
+612,2025-05-23,Producción,Mario Pineda,Preparación de ramos,196,181,8,Parcial
+613,2025-05-26,Calidad,Natalia Ríos,Inspección de lote,32,32,7,Cumplida
+614,2025-05-26,Calidad,Esteban Gil,Reinspección de lote,20,20,6,Cumplida
+615,2025-05-26,Empaque,Camila Torres,Armado de cajas,130,119,7,Parcial
+616,2025-05-26,Empaque,Felipe Rojas,Etiquetado,129,115,7,Parcial
+617,2025-05-26,Logística,Oscar Duarte,Despacho regional,8,7,7,Parcial
+618,2025-05-26,Logística,Oscar Duarte,Despacho urbano,18,17,8,Parcial
+619,2025-05-27,Calidad,Esteban Gil,Inspección de lote,29,28,8,Parcial
+620,2025-05-27,Calidad,Natalia Ríos,Reinspección de lote,17,16,6,Parcial
+621,2025-05-27,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,6,5,6,Parcial
+622,2025-05-27,Mantenimiento,Ricardo Salazar,Revisión de equipos,9,7,7,No cumplida
+623,2025-05-27,Producción,Helena Cruz,Corte en cultivo,377,372,8,Parcial
+624,2025-05-27,Producción,Helena Cruz,Preparación de ramos,231,214,8,Parcial
+625,2025-05-28,Empaque,Camila Torres,Armado de cajas,143,134,6,Parcial
+626,2025-05-28,Empaque,Camila Torres,Etiquetado,121,109,7,Parcial
+627,2025-05-28,Logística,Valentina León,Despacho regional,9,8,7,Parcial
+628,2025-05-28,Logística,Oscar Duarte,Despacho urbano,15,14,8,Parcial
+629,2025-05-28,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,6,4,6,No cumplida
+630,2025-05-28,Mantenimiento,Diana Pardo,Revisión de equipos,9,7,7,No cumplida
+631,2025-05-29,Calidad,Esteban Gil,Inspección de lote,32,33,6,Cumplida
+632,2025-05-29,Calidad,Natalia Ríos,Reinspección de lote,18,17,6,Parcial
+633,2025-05-29,Logística,Oscar Duarte,Despacho regional,9,8,7,Parcial
+634,2025-05-29,Logística,Oscar Duarte,Despacho urbano,16,14,9,Parcial
+635,2025-05-29,Producción,Helena Cruz,Corte en cultivo,354,348,7,Parcial
+636,2025-05-29,Producción,Mario Pineda,Preparación de ramos,244,226,9,Parcial
+637,2025-05-30,Empaque,Camila Torres,Armado de cajas,120,111,8,Parcial
+638,2025-05-30,Empaque,Felipe Rojas,Etiquetado,137,124,7,Parcial
+639,2025-05-30,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,6,Parcial
+640,2025-05-30,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,7,8,Parcial
+641,2025-05-30,Producción,Mario Pineda,Corte en cultivo,394,381,9,Parcial
+642,2025-05-30,Producción,Helena Cruz,Preparación de ramos,259,229,8,Parcial
+643,2025-06-02,Calidad,Esteban Gil,Inspección de lote,31,31,7,Cumplida
+644,2025-06-02,Calidad,Esteban Gil,Reinspección de lote,18,17,6,Parcial
+645,2025-06-02,Empaque,Camila Torres,Armado de cajas,126,108,7,Parcial
+646,2025-06-02,Empaque,Camila Torres,Etiquetado,146,123,6,Parcial
+647,2025-06-02,Logística,Oscar Duarte,Despacho regional,8,7,7,Parcial
+648,2025-06-02,Logística,Oscar Duarte,Despacho urbano,16,14,8,Parcial
+649,2025-06-03,Calidad,Esteban Gil,Inspección de lote,31,30,7,Parcial
+650,2025-06-03,Calidad,Esteban Gil,Reinspección de lote,19,17,6,Parcial
+651,2025-06-03,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,6,Parcial
+652,2025-06-03,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,7,7,Parcial
+653,2025-06-03,Producción,Mario Pineda,Corte en cultivo,378,341,8,Parcial
+654,2025-06-03,Producción,Helena Cruz,Preparación de ramos,227,212,8,Parcial
+655,2025-06-04,Empaque,Camila Torres,Armado de cajas,116,101,8,Parcial
+656,2025-06-04,Empaque,Felipe Rojas,Etiquetado,145,128,6,Parcial
+657,2025-06-04,Logística,Oscar Duarte,Despacho regional,7,6,7,Parcial
+658,2025-06-04,Logística,Valentina León,Despacho urbano,16,15,8,Parcial
+659,2025-06-04,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,6,Parcial
+660,2025-06-04,Mantenimiento,Diana Pardo,Revisión de equipos,7,6,7,Parcial
+661,2025-06-05,Calidad,Natalia Ríos,Inspección de lote,27,28,7,Cumplida
+662,2025-06-05,Calidad,Natalia Ríos,Reinspección de lote,17,16,6,Parcial
+663,2025-06-05,Logística,Oscar Duarte,Despacho regional,8,7,6,Parcial
+664,2025-06-05,Logística,Oscar Duarte,Despacho urbano,16,14,7,Parcial
+665,2025-06-05,Producción,Helena Cruz,Corte en cultivo,357,338,8,Parcial
+666,2025-06-05,Producción,Mario Pineda,Preparación de ramos,220,194,9,Parcial
+667,2025-06-06,Empaque,Felipe Rojas,Armado de cajas,128,121,9,Parcial
+668,2025-06-06,Empaque,Felipe Rojas,Etiquetado,154,144,8,Parcial
+669,2025-06-06,Mantenimiento,Diana Pardo,Mantenimiento preventivo,4,3,6,No cumplida
+670,2025-06-06,Mantenimiento,Diana Pardo,Revisión de equipos,7,5,7,No cumplida
+671,2025-06-06,Producción,Helena Cruz,Corte en cultivo,331,287,9,Parcial
+672,2025-06-06,Producción,Mario Pineda,Preparación de ramos,258,237,8,Parcial
+673,2025-06-09,Calidad,Esteban Gil,Inspección de lote,30,31,8,Cumplida
+674,2025-06-09,Calidad,Natalia Ríos,Reinspección de lote,16,14,7,Parcial
+675,2025-06-09,Empaque,Camila Torres,Armado de cajas,131,115,7,Parcial
+676,2025-06-09,Empaque,Felipe Rojas,Etiquetado,138,120,8,Parcial
+677,2025-06-09,Logística,Oscar Duarte,Despacho regional,8,7,6,Parcial
+678,2025-06-09,Logística,Oscar Duarte,Despacho urbano,17,15,8,Parcial
+679,2025-06-10,Calidad,Natalia Ríos,Inspección de lote,30,30,7,Cumplida
+680,2025-06-10,Calidad,Esteban Gil,Reinspección de lote,19,18,7,Parcial
+681,2025-06-10,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,6,Parcial
+682,2025-06-10,Mantenimiento,Diana Pardo,Revisión de equipos,7,5,7,No cumplida
+683,2025-06-10,Producción,Mario Pineda,Corte en cultivo,334,342,8,Cumplida
+684,2025-06-10,Producción,Helena Cruz,Preparación de ramos,242,213,7,Parcial
+685,2025-06-11,Empaque,Felipe Rojas,Armado de cajas,123,113,9,Parcial
+686,2025-06-11,Empaque,Camila Torres,Etiquetado,123,109,8,Parcial
+687,2025-06-11,Logística,Valentina León,Despacho regional,8,7,6,Parcial
+688,2025-06-11,Logística,Valentina León,Despacho urbano,19,16,8,Parcial
+689,2025-06-11,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,3,5,No cumplida
+690,2025-06-11,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,6,6,No cumplida
+691,2025-06-12,Calidad,Esteban Gil,Inspección de lote,27,27,9,Cumplida
+692,2025-06-12,Calidad,Esteban Gil,Reinspección de lote,17,16,5,Parcial
+693,2025-06-12,Logística,Oscar Duarte,Despacho regional,7,6,6,Parcial
+694,2025-06-12,Logística,Oscar Duarte,Despacho urbano,18,17,7,Parcial
+695,2025-06-12,Producción,Helena Cruz,Corte en cultivo,398,393,8,Parcial
+696,2025-06-12,Producción,Mario Pineda,Preparación de ramos,255,240,8,Parcial
+697,2025-06-13,Empaque,Felipe Rojas,Armado de cajas,134,122,7,Parcial
+698,2025-06-13,Empaque,Camila Torres,Etiquetado,131,121,7,Parcial
+699,2025-06-13,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,3,4,No cumplida
+700,2025-06-13,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,6,7,No cumplida
+701,2025-06-13,Producción,Helena Cruz,Corte en cultivo,367,328,8,Parcial
+702,2025-06-13,Producción,Helena Cruz,Preparación de ramos,265,236,8,Parcial
+703,2025-06-16,Calidad,Esteban Gil,Inspección de lote,30,29,8,Parcial
+704,2025-06-16,Calidad,Natalia Ríos,Reinspección de lote,18,17,6,Parcial
+705,2025-06-16,Empaque,Camila Torres,Armado de cajas,144,126,9,Parcial
+706,2025-06-16,Empaque,Felipe Rojas,Etiquetado,154,132,6,Parcial
+707,2025-06-16,Logística,Valentina León,Despacho regional,7,6,9,Parcial
+708,2025-06-16,Logística,Valentina León,Despacho urbano,15,14,8,Parcial
+709,2025-06-17,Calidad,Esteban Gil,Inspección de lote,28,26,7,Parcial
+710,2025-06-17,Calidad,Natalia Ríos,Reinspección de lote,17,18,5,Cumplida
+711,2025-06-17,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,6,4,7,No cumplida
+712,2025-06-17,Mantenimiento,Diana Pardo,Revisión de equipos,7,6,8,Parcial
+713,2025-06-17,Producción,Mario Pineda,Corte en cultivo,388,367,8,Parcial
+714,2025-06-17,Producción,Mario Pineda,Preparación de ramos,254,239,8,Parcial
+715,2025-06-18,Empaque,Camila Torres,Armado de cajas,120,110,8,Parcial
+716,2025-06-18,Empaque,Felipe Rojas,Etiquetado,144,126,7,Parcial
+717,2025-06-18,Logística,Valentina León,Despacho regional,8,7,7,Parcial
+718,2025-06-18,Logística,Valentina León,Despacho urbano,15,14,8,Parcial
+719,2025-06-18,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,4,6,Parcial
+720,2025-06-18,Mantenimiento,Diana Pardo,Revisión de equipos,8,6,5,No cumplida
+721,2025-06-19,Calidad,Esteban Gil,Inspección de lote,34,33,7,Parcial
+722,2025-06-19,Calidad,Esteban Gil,Reinspección de lote,19,18,6,Parcial
+723,2025-06-19,Logística,Oscar Duarte,Despacho regional,8,7,7,Parcial
+724,2025-06-19,Logística,Oscar Duarte,Despacho urbano,14,13,9,Parcial
+725,2025-06-19,Producción,Mario Pineda,Corte en cultivo,397,394,9,Parcial
+726,2025-06-19,Producción,Mario Pineda,Preparación de ramos,259,215,7,Parcial
+727,2025-06-20,Empaque,Camila Torres,Armado de cajas,121,103,8,Parcial
+728,2025-06-20,Empaque,Felipe Rojas,Etiquetado,165,145,8,Parcial
+729,2025-06-20,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,5,Parcial
+730,2025-06-20,Mantenimiento,Ricardo Salazar,Revisión de equipos,7,6,8,Parcial
+731,2025-06-20,Producción,Mario Pineda,Corte en cultivo,334,308,7,Parcial
+732,2025-06-20,Producción,Mario Pineda,Preparación de ramos,218,190,8,Parcial
+733,2025-06-23,Calidad,Esteban Gil,Inspección de lote,34,34,7,Cumplida
+734,2025-06-23,Calidad,Esteban Gil,Reinspección de lote,20,20,5,Cumplida
+735,2025-06-23,Empaque,Camila Torres,Armado de cajas,144,137,6,Parcial
+736,2025-06-23,Empaque,Felipe Rojas,Etiquetado,148,128,7,Parcial
+737,2025-06-23,Logística,Valentina León,Despacho regional,8,7,7,Parcial
+738,2025-06-23,Logística,Oscar Duarte,Despacho urbano,14,13,8,Parcial
+739,2025-06-24,Calidad,Natalia Ríos,Inspección de lote,30,31,8,Cumplida
+740,2025-06-24,Calidad,Natalia Ríos,Reinspección de lote,21,20,6,Parcial
+741,2025-06-24,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,4,6,Parcial
+742,2025-06-24,Mantenimiento,Ricardo Salazar,Revisión de equipos,9,8,6,Parcial
+743,2025-06-24,Producción,Helena Cruz,Corte en cultivo,370,357,8,Parcial
+744,2025-06-24,Producción,Mario Pineda,Preparación de ramos,244,227,8,Parcial
+745,2025-06-25,Empaque,Camila Torres,Armado de cajas,116,106,9,Parcial
+746,2025-06-25,Empaque,Felipe Rojas,Etiquetado,131,113,4,Parcial
+747,2025-06-25,Logística,Valentina León,Despacho regional,8,7,6,Parcial
+748,2025-06-25,Logística,Valentina León,Despacho urbano,18,16,8,Parcial
+749,2025-06-25,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,3,5,No cumplida
+750,2025-06-25,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,7,8,Parcial
+751,2025-06-26,Calidad,Esteban Gil,Inspección de lote,30,27,7,Parcial
+752,2025-06-26,Calidad,Natalia Ríos,Reinspección de lote,19,18,7,Parcial
+753,2025-06-26,Logística,Valentina León,Despacho regional,7,6,7,Parcial
+754,2025-06-26,Logística,Valentina León,Despacho urbano,16,14,8,Parcial
+755,2025-06-26,Producción,Mario Pineda,Corte en cultivo,361,325,9,Parcial
+756,2025-06-26,Producción,Helena Cruz,Preparación de ramos,249,229,8,Parcial
+757,2025-06-27,Empaque,Felipe Rojas,Armado de cajas,128,110,7,Parcial
+758,2025-06-27,Empaque,Camila Torres,Etiquetado,136,123,6,Parcial
+759,2025-06-27,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,6,4,6,No cumplida
+760,2025-06-27,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,6,7,No cumplida
+761,2025-06-27,Producción,Helena Cruz,Corte en cultivo,380,343,7,Parcial
+762,2025-06-27,Producción,Mario Pineda,Preparación de ramos,217,197,9,Parcial
+763,2025-06-30,Calidad,Natalia Ríos,Inspección de lote,27,26,8,Parcial
+764,2025-06-30,Calidad,Esteban Gil,Reinspección de lote,18,17,5,Parcial
+765,2025-06-30,Empaque,Felipe Rojas,Armado de cajas,121,107,8,Parcial
+766,2025-06-30,Empaque,Felipe Rojas,Etiquetado,154,136,7,Parcial
+767,2025-06-30,Logística,Valentina León,Despacho regional,9,8,7,Parcial
+768,2025-06-30,Logística,Valentina León,Despacho urbano,16,15,9,Parcial
+769,2025-07-01,Calidad,Esteban Gil,Inspección de lote,31,29,7,Parcial
+770,2025-07-01,Calidad,Natalia Ríos,Reinspección de lote,18,17,6,Parcial
+771,2025-07-01,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,7,Parcial
+772,2025-07-01,Mantenimiento,Diana Pardo,Revisión de equipos,9,7,7,No cumplida
+773,2025-07-01,Producción,Mario Pineda,Corte en cultivo,312,308,8,Parcial
+774,2025-07-01,Producción,Mario Pineda,Preparación de ramos,271,243,8,Parcial
+775,2025-07-02,Empaque,Felipe Rojas,Armado de cajas,117,109,7,Parcial
+776,2025-07-02,Empaque,Camila Torres,Etiquetado,137,112,7,Parcial
+777,2025-07-02,Logística,Valentina León,Despacho regional,10,9,8,Parcial
+778,2025-07-02,Logística,Oscar Duarte,Despacho urbano,13,11,7,Parcial
+779,2025-07-02,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,5,Parcial
+780,2025-07-02,Mantenimiento,Diana Pardo,Revisión de equipos,9,7,6,No cumplida
+781,2025-07-03,Calidad,Natalia Ríos,Inspección de lote,29,26,7,Parcial
+782,2025-07-03,Calidad,Natalia Ríos,Reinspección de lote,17,17,6,Cumplida
+783,2025-07-03,Logística,Valentina León,Despacho regional,7,6,7,Parcial
+784,2025-07-03,Logística,Valentina León,Despacho urbano,15,14,8,Parcial
+785,2025-07-03,Producción,Helena Cruz,Corte en cultivo,328,322,9,Parcial
+786,2025-07-03,Producción,Helena Cruz,Preparación de ramos,242,221,8,Parcial
+787,2025-07-04,Empaque,Camila Torres,Armado de cajas,120,109,8,Parcial
+788,2025-07-04,Empaque,Felipe Rojas,Etiquetado,131,107,6,Parcial
+789,2025-07-04,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,7,Parcial
+790,2025-07-04,Mantenimiento,Diana Pardo,Revisión de equipos,7,5,6,No cumplida
+791,2025-07-04,Producción,Helena Cruz,Corte en cultivo,328,322,9,Parcial
+792,2025-07-04,Producción,Helena Cruz,Preparación de ramos,229,198,9,Parcial
+793,2025-07-07,Calidad,Esteban Gil,Inspección de lote,25,24,7,Parcial
+794,2025-07-07,Calidad,Natalia Ríos,Reinspección de lote,17,16,6,Parcial
+795,2025-07-07,Empaque,Camila Torres,Armado de cajas,135,119,8,Parcial
+796,2025-07-07,Empaque,Camila Torres,Etiquetado,148,130,9,Parcial
+797,2025-07-07,Logística,Valentina León,Despacho regional,8,6,7,No cumplida
+798,2025-07-07,Logística,Oscar Duarte,Despacho urbano,16,14,8,Parcial
+799,2025-07-08,Calidad,Esteban Gil,Inspección de lote,29,30,7,Cumplida
+800,2025-07-08,Calidad,Esteban Gil,Reinspección de lote,19,18,6,Parcial
+801,2025-07-08,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,7,Parcial
+802,2025-07-08,Mantenimiento,Diana Pardo,Revisión de equipos,9,7,8,No cumplida
+803,2025-07-08,Producción,Mario Pineda,Corte en cultivo,358,327,8,Parcial
+804,2025-07-08,Producción,Helena Cruz,Preparación de ramos,233,214,9,Parcial
+805,2025-07-09,Empaque,Camila Torres,Armado de cajas,147,124,9,Parcial
+806,2025-07-09,Empaque,Felipe Rojas,Etiquetado,139,119,8,Parcial
+807,2025-07-09,Logística,Valentina León,Despacho regional,7,6,9,Parcial
+808,2025-07-09,Logística,Valentina León,Despacho urbano,14,13,9,Parcial
+809,2025-07-09,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,4,6,Parcial
+810,2025-07-09,Mantenimiento,Ricardo Salazar,Revisión de equipos,9,7,7,No cumplida
+811,2025-07-10,Calidad,Esteban Gil,Inspección de lote,30,29,7,Parcial
+812,2025-07-10,Calidad,Esteban Gil,Reinspección de lote,17,16,7,Parcial
+813,2025-07-10,Logística,Oscar Duarte,Despacho regional,8,7,6,Parcial
+814,2025-07-10,Logística,Oscar Duarte,Despacho urbano,17,14,7,Parcial
+815,2025-07-10,Producción,Mario Pineda,Corte en cultivo,346,338,8,Parcial
+816,2025-07-10,Producción,Helena Cruz,Preparación de ramos,247,225,8,Parcial
+817,2025-07-11,Empaque,Felipe Rojas,Armado de cajas,125,109,7,Parcial
+818,2025-07-11,Empaque,Felipe Rojas,Etiquetado,156,134,7,Parcial
+819,2025-07-11,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,3,6,No cumplida
+820,2025-07-11,Mantenimiento,Diana Pardo,Revisión de equipos,7,5,6,No cumplida
+821,2025-07-11,Producción,Helena Cruz,Corte en cultivo,331,303,7,Parcial
+822,2025-07-11,Producción,Helena Cruz,Preparación de ramos,224,193,7,Parcial
+823,2025-07-14,Calidad,Natalia Ríos,Inspección de lote,29,29,7,Cumplida
+824,2025-07-14,Calidad,Natalia Ríos,Reinspección de lote,17,16,6,Parcial
+825,2025-07-14,Empaque,Felipe Rojas,Armado de cajas,131,121,8,Parcial
+826,2025-07-14,Empaque,Felipe Rojas,Etiquetado,153,134,8,Parcial
+827,2025-07-14,Logística,Valentina León,Despacho regional,8,7,7,Parcial
+828,2025-07-14,Logística,Oscar Duarte,Despacho urbano,17,16,8,Parcial
+829,2025-07-15,Calidad,Esteban Gil,Inspección de lote,31,30,8,Parcial
+830,2025-07-15,Calidad,Natalia Ríos,Reinspección de lote,18,18,7,Cumplida
+831,2025-07-15,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,6,4,6,No cumplida
+832,2025-07-15,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,6,8,No cumplida
+833,2025-07-15,Producción,Helena Cruz,Corte en cultivo,376,381,9,Cumplida
+834,2025-07-15,Producción,Helena Cruz,Preparación de ramos,246,216,8,Parcial
+835,2025-07-16,Empaque,Felipe Rojas,Armado de cajas,135,117,9,Parcial
+836,2025-07-16,Empaque,Felipe Rojas,Etiquetado,139,121,6,Parcial
+837,2025-07-16,Logística,Valentina León,Despacho regional,9,7,6,No cumplida
+838,2025-07-16,Logística,Valentina León,Despacho urbano,16,14,8,Parcial
+839,2025-07-16,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,5,Parcial
+840,2025-07-16,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,6,7,No cumplida
+841,2025-07-17,Calidad,Esteban Gil,Inspección de lote,31,30,8,Parcial
+842,2025-07-17,Calidad,Esteban Gil,Reinspección de lote,20,19,5,Parcial
+843,2025-07-17,Logística,Oscar Duarte,Despacho regional,8,6,7,No cumplida
+844,2025-07-17,Logística,Valentina León,Despacho urbano,18,16,8,Parcial
+845,2025-07-17,Producción,Mario Pineda,Corte en cultivo,398,378,8,Parcial
+846,2025-07-17,Producción,Mario Pineda,Preparación de ramos,229,205,8,Parcial
+847,2025-07-18,Empaque,Felipe Rojas,Armado de cajas,134,117,8,Parcial
+848,2025-07-18,Empaque,Felipe Rojas,Etiquetado,152,127,6,Parcial
+849,2025-07-18,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,4,7,Parcial
+850,2025-07-18,Mantenimiento,Diana Pardo,Revisión de equipos,8,7,7,Parcial
+851,2025-07-18,Producción,Helena Cruz,Corte en cultivo,291,258,8,Parcial
+852,2025-07-18,Producción,Mario Pineda,Preparación de ramos,247,221,8,Parcial
+853,2025-07-21,Calidad,Esteban Gil,Inspección de lote,32,31,7,Parcial
+854,2025-07-21,Calidad,Natalia Ríos,Reinspección de lote,16,15,6,Parcial
+855,2025-07-21,Empaque,Felipe Rojas,Armado de cajas,122,106,8,Parcial
+856,2025-07-21,Empaque,Felipe Rojas,Etiquetado,150,133,5,Parcial
+857,2025-07-21,Logística,Oscar Duarte,Despacho regional,9,7,8,No cumplida
+858,2025-07-21,Logística,Oscar Duarte,Despacho urbano,16,15,7,Parcial
+859,2025-07-22,Calidad,Esteban Gil,Inspección de lote,28,27,5,Parcial
+860,2025-07-22,Calidad,Natalia Ríos,Reinspección de lote,21,19,6,Parcial
+861,2025-07-22,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,6,Parcial
+862,2025-07-22,Mantenimiento,Diana Pardo,Revisión de equipos,8,6,7,No cumplida
+863,2025-07-22,Producción,Mario Pineda,Corte en cultivo,372,346,7,Parcial
+864,2025-07-22,Producción,Helena Cruz,Preparación de ramos,247,207,8,Parcial
+865,2025-07-23,Empaque,Camila Torres,Armado de cajas,121,107,7,Parcial
+866,2025-07-23,Empaque,Felipe Rojas,Etiquetado,109,97,6,Parcial
+867,2025-07-23,Logística,Valentina León,Despacho regional,7,6,7,Parcial
+868,2025-07-23,Logística,Oscar Duarte,Despacho urbano,18,16,9,Parcial
+869,2025-07-23,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,6,Parcial
+870,2025-07-23,Mantenimiento,Diana Pardo,Revisión de equipos,7,6,7,Parcial
+871,2025-07-24,Calidad,Esteban Gil,Inspección de lote,30,29,7,Parcial
+872,2025-07-24,Calidad,Esteban Gil,Reinspección de lote,19,18,5,Parcial
+873,2025-07-24,Logística,Oscar Duarte,Despacho regional,8,6,6,No cumplida
+874,2025-07-24,Logística,Valentina León,Despacho urbano,18,15,8,Parcial
+875,2025-07-24,Producción,Mario Pineda,Corte en cultivo,334,322,8,Parcial
+876,2025-07-24,Producción,Mario Pineda,Preparación de ramos,234,220,10,Parcial
+877,2025-07-25,Empaque,Camila Torres,Armado de cajas,149,138,9,Parcial
+878,2025-07-25,Empaque,Camila Torres,Etiquetado,162,136,7,Parcial
+879,2025-07-25,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,7,Parcial
+880,2025-07-25,Mantenimiento,Diana Pardo,Revisión de equipos,9,7,7,No cumplida
+881,2025-07-25,Producción,Mario Pineda,Corte en cultivo,383,364,6,Parcial
+882,2025-07-25,Producción,Mario Pineda,Preparación de ramos,239,215,7,Parcial
+883,2025-07-28,Calidad,Esteban Gil,Inspección de lote,32,31,7,Parcial
+884,2025-07-28,Calidad,Natalia Ríos,Reinspección de lote,19,17,7,Parcial
+885,2025-07-28,Empaque,Camila Torres,Armado de cajas,131,118,7,Parcial
+886,2025-07-28,Empaque,Felipe Rojas,Etiquetado,154,132,7,Parcial
+887,2025-07-28,Logística,Valentina León,Despacho regional,7,6,7,Parcial
+888,2025-07-28,Logística,Oscar Duarte,Despacho urbano,16,15,8,Parcial
+889,2025-07-29,Calidad,Natalia Ríos,Inspección de lote,30,29,7,Parcial
+890,2025-07-29,Calidad,Natalia Ríos,Reinspección de lote,17,16,6,Parcial
+891,2025-07-29,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,4,6,Parcial
+892,2025-07-29,Mantenimiento,Diana Pardo,Revisión de equipos,8,7,7,Parcial
+893,2025-07-29,Producción,Helena Cruz,Corte en cultivo,411,363,8,Parcial
+894,2025-07-29,Producción,Mario Pineda,Preparación de ramos,233,219,9,Parcial
+895,2025-07-30,Empaque,Felipe Rojas,Armado de cajas,129,118,6,Parcial
+896,2025-07-30,Empaque,Camila Torres,Etiquetado,139,125,7,Parcial
+897,2025-07-30,Logística,Valentina León,Despacho regional,9,8,5,Parcial
+898,2025-07-30,Logística,Oscar Duarte,Despacho urbano,16,14,8,Parcial
+899,2025-07-30,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,6,Parcial
+900,2025-07-30,Mantenimiento,Diana Pardo,Revisión de equipos,8,6,7,No cumplida
+901,2025-07-31,Calidad,Natalia Ríos,Inspección de lote,31,32,7,Cumplida
+902,2025-07-31,Calidad,Esteban Gil,Reinspección de lote,19,18,6,Parcial
+903,2025-07-31,Logística,Oscar Duarte,Despacho regional,8,7,5,Parcial
+904,2025-07-31,Logística,Oscar Duarte,Despacho urbano,18,17,7,Parcial
+905,2025-07-31,Producción,Helena Cruz,Corte en cultivo,361,340,9,Parcial
+906,2025-07-31,Producción,Mario Pineda,Preparación de ramos,271,237,8,Parcial
+907,2025-08-01,Empaque,Camila Torres,Armado de cajas,122,110,7,Parcial
+908,2025-08-01,Empaque,Camila Torres,Etiquetado,140,124,7,Parcial
+909,2025-08-01,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,6,Parcial
+910,2025-08-01,Mantenimiento,Diana Pardo,Revisión de equipos,7,6,7,Parcial
+911,2025-08-01,Producción,Helena Cruz,Corte en cultivo,311,295,9,Parcial
+912,2025-08-01,Producción,Helena Cruz,Preparación de ramos,280,253,7,Parcial
+913,2025-08-04,Calidad,Natalia Ríos,Inspección de lote,30,30,7,Cumplida
+914,2025-08-04,Calidad,Natalia Ríos,Reinspección de lote,17,17,7,Cumplida
+915,2025-08-04,Empaque,Camila Torres,Armado de cajas,128,110,7,Parcial
+916,2025-08-04,Empaque,Camila Torres,Etiquetado,140,116,6,Parcial
+917,2025-08-04,Logística,Oscar Duarte,Despacho regional,7,6,6,Parcial
+918,2025-08-04,Logística,Oscar Duarte,Despacho urbano,16,15,9,Parcial
+919,2025-08-05,Calidad,Natalia Ríos,Inspección de lote,34,35,6,Cumplida
+920,2025-08-05,Calidad,Esteban Gil,Reinspección de lote,17,16,6,Parcial
+921,2025-08-05,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,5,Parcial
+922,2025-08-05,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,7,7,Parcial
+923,2025-08-05,Producción,Helena Cruz,Corte en cultivo,318,305,8,Parcial
+924,2025-08-05,Producción,Mario Pineda,Preparación de ramos,211,193,8,Parcial
+925,2025-08-06,Empaque,Camila Torres,Armado de cajas,115,107,7,Parcial
+926,2025-08-06,Empaque,Felipe Rojas,Etiquetado,149,130,7,Parcial
+927,2025-08-06,Logística,Oscar Duarte,Despacho regional,8,7,6,Parcial
+928,2025-08-06,Logística,Valentina León,Despacho urbano,14,12,7,Parcial
+929,2025-08-06,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,5,Parcial
+930,2025-08-06,Mantenimiento,Diana Pardo,Revisión de equipos,7,6,6,Parcial
+931,2025-08-07,Calidad,Esteban Gil,Inspección de lote,25,26,7,Cumplida
+932,2025-08-07,Calidad,Esteban Gil,Reinspección de lote,19,19,6,Cumplida
+933,2025-08-07,Logística,Valentina León,Despacho regional,7,6,6,Parcial
+934,2025-08-07,Logística,Oscar Duarte,Despacho urbano,15,14,8,Parcial
+935,2025-08-07,Producción,Mario Pineda,Corte en cultivo,382,385,8,Cumplida
+936,2025-08-07,Producción,Helena Cruz,Preparación de ramos,274,254,8,Parcial
+937,2025-08-08,Empaque,Camila Torres,Armado de cajas,142,130,7,Parcial
+938,2025-08-08,Empaque,Felipe Rojas,Etiquetado,154,136,8,Parcial
+939,2025-08-08,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,4,5,Parcial
+940,2025-08-08,Mantenimiento,Diana Pardo,Revisión de equipos,8,7,8,Parcial
+941,2025-08-08,Producción,Mario Pineda,Corte en cultivo,356,336,8,Parcial
+942,2025-08-08,Producción,Mario Pineda,Preparación de ramos,253,239,8,Parcial
+943,2025-08-11,Calidad,Esteban Gil,Inspección de lote,31,31,7,Cumplida
+944,2025-08-11,Calidad,Natalia Ríos,Reinspección de lote,16,15,6,Parcial
+945,2025-08-11,Empaque,Camila Torres,Armado de cajas,125,113,8,Parcial
+946,2025-08-11,Empaque,Felipe Rojas,Etiquetado,139,117,6,Parcial
+947,2025-08-11,Logística,Oscar Duarte,Despacho regional,8,7,8,Parcial
+948,2025-08-11,Logística,Valentina León,Despacho urbano,16,14,8,Parcial
+949,2025-08-12,Calidad,Natalia Ríos,Inspección de lote,30,29,9,Parcial
+950,2025-08-12,Calidad,Natalia Ríos,Reinspección de lote,17,16,7,Parcial
+951,2025-08-12,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,4,7,Parcial
+952,2025-08-12,Mantenimiento,Diana Pardo,Revisión de equipos,7,6,7,Parcial
+953,2025-08-12,Producción,Helena Cruz,Corte en cultivo,354,352,8,Parcial
+954,2025-08-12,Producción,Mario Pineda,Preparación de ramos,267,245,7,Parcial
+955,2025-08-13,Empaque,Camila Torres,Armado de cajas,124,115,8,Parcial
+956,2025-08-13,Empaque,Felipe Rojas,Etiquetado,134,108,7,Parcial
+957,2025-08-13,Logística,Valentina León,Despacho regional,8,7,6,Parcial
+958,2025-08-13,Logística,Oscar Duarte,Despacho urbano,14,12,8,Parcial
+959,2025-08-13,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,4,5,Parcial
+960,2025-08-13,Mantenimiento,Ricardo Salazar,Revisión de equipos,9,7,7,No cumplida
+961,2025-08-14,Calidad,Esteban Gil,Inspección de lote,27,26,6,Parcial
+962,2025-08-14,Calidad,Esteban Gil,Reinspección de lote,17,17,6,Cumplida
+963,2025-08-14,Logística,Oscar Duarte,Despacho regional,8,7,7,Parcial
+964,2025-08-14,Logística,Valentina León,Despacho urbano,14,12,8,Parcial
+965,2025-08-14,Producción,Mario Pineda,Corte en cultivo,370,353,9,Parcial
+966,2025-08-14,Producción,Helena Cruz,Preparación de ramos,258,243,8,Parcial
+967,2025-08-15,Empaque,Camila Torres,Armado de cajas,123,112,7,Parcial
+968,2025-08-15,Empaque,Felipe Rojas,Etiquetado,130,114,7,Parcial
+969,2025-08-15,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,6,Parcial
+970,2025-08-15,Mantenimiento,Diana Pardo,Revisión de equipos,8,7,7,Parcial
+971,2025-08-15,Producción,Mario Pineda,Corte en cultivo,368,356,8,Parcial
+972,2025-08-15,Producción,Mario Pineda,Preparación de ramos,242,228,7,Parcial
+973,2025-08-18,Calidad,Natalia Ríos,Inspección de lote,34,34,6,Cumplida
+974,2025-08-18,Calidad,Natalia Ríos,Reinspección de lote,17,17,5,Cumplida
+975,2025-08-18,Empaque,Felipe Rojas,Armado de cajas,113,110,8,Parcial
+976,2025-08-18,Empaque,Felipe Rojas,Etiquetado,148,135,7,Parcial
+977,2025-08-18,Logística,Oscar Duarte,Despacho regional,8,7,7,Parcial
+978,2025-08-18,Logística,Oscar Duarte,Despacho urbano,15,12,7,Parcial
+979,2025-08-19,Calidad,Esteban Gil,Inspección de lote,29,29,6,Cumplida
+980,2025-08-19,Calidad,Natalia Ríos,Reinspección de lote,17,16,6,Parcial
+981,2025-08-19,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,5,Parcial
+982,2025-08-19,Mantenimiento,Diana Pardo,Revisión de equipos,9,7,7,No cumplida
+983,2025-08-19,Producción,Mario Pineda,Corte en cultivo,394,373,7,Parcial
+984,2025-08-19,Producción,Mario Pineda,Preparación de ramos,228,204,9,Parcial
+985,2025-08-20,Empaque,Felipe Rojas,Armado de cajas,126,115,7,Parcial
+986,2025-08-20,Empaque,Camila Torres,Etiquetado,112,105,8,Parcial
+987,2025-08-20,Logística,Valentina León,Despacho regional,8,7,7,Parcial
+988,2025-08-20,Logística,Oscar Duarte,Despacho urbano,18,18,8,Cumplida
+989,2025-08-20,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,3,6,No cumplida
+990,2025-08-20,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,7,7,Parcial
+991,2025-08-21,Calidad,Natalia Ríos,Inspección de lote,31,31,7,Cumplida
+992,2025-08-21,Calidad,Esteban Gil,Reinspección de lote,20,19,7,Parcial
+993,2025-08-21,Logística,Oscar Duarte,Despacho regional,8,7,7,Parcial
+994,2025-08-21,Logística,Valentina León,Despacho urbano,16,14,8,Parcial
+995,2025-08-21,Producción,Mario Pineda,Corte en cultivo,374,359,7,Parcial
+996,2025-08-21,Producción,Helena Cruz,Preparación de ramos,217,193,7,Parcial
+997,2025-08-22,Empaque,Felipe Rojas,Armado de cajas,111,105,8,Parcial
+998,2025-08-22,Empaque,Felipe Rojas,Etiquetado,134,113,8,Parcial
+999,2025-08-22,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,4,6,Parcial
+1000,2025-08-22,Mantenimiento,Diana Pardo,Revisión de equipos,8,6,7,No cumplida
+1001,2025-08-22,Producción,Mario Pineda,Corte en cultivo,365,352,8,Parcial
+1002,2025-08-22,Producción,Helena Cruz,Preparación de ramos,224,215,8,Parcial
+1003,2025-08-25,Calidad,Esteban Gil,Inspección de lote,31,31,7,Cumplida
+1004,2025-08-25,Calidad,Natalia Ríos,Reinspección de lote,17,17,5,Cumplida
+1005,2025-08-25,Empaque,Felipe Rojas,Armado de cajas,129,114,8,Parcial
+1006,2025-08-25,Empaque,Camila Torres,Etiquetado,124,102,8,Parcial
+1007,2025-08-25,Logística,Valentina León,Despacho regional,9,8,8,Parcial
+1008,2025-08-25,Logística,Oscar Duarte,Despacho urbano,18,16,8,Parcial
+1009,2025-08-26,Calidad,Esteban Gil,Inspección de lote,27,27,7,Cumplida
+1010,2025-08-26,Calidad,Esteban Gil,Reinspección de lote,18,18,6,Cumplida
+1011,2025-08-26,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,5,Parcial
+1012,2025-08-26,Mantenimiento,Diana Pardo,Revisión de equipos,8,6,8,No cumplida
+1013,2025-08-26,Producción,Mario Pineda,Corte en cultivo,391,364,8,Parcial
+1014,2025-08-26,Producción,Mario Pineda,Preparación de ramos,243,224,8,Parcial
+1015,2025-08-27,Empaque,Felipe Rojas,Armado de cajas,136,122,8,Parcial
+1016,2025-08-27,Empaque,Camila Torres,Etiquetado,132,118,7,Parcial
+1017,2025-08-27,Logística,Valentina León,Despacho regional,8,7,7,Parcial
+1018,2025-08-27,Logística,Oscar Duarte,Despacho urbano,14,12,8,Parcial
+1019,2025-08-27,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,7,Parcial
+1020,2025-08-27,Mantenimiento,Ricardo Salazar,Revisión de equipos,7,6,8,Parcial
+1021,2025-08-28,Calidad,Esteban Gil,Inspección de lote,29,29,6,Cumplida
+1022,2025-08-28,Calidad,Natalia Ríos,Reinspección de lote,18,18,5,Cumplida
+1023,2025-08-28,Logística,Oscar Duarte,Despacho regional,8,7,8,Parcial
+1024,2025-08-28,Logística,Valentina León,Despacho urbano,16,14,8,Parcial
+1025,2025-08-28,Producción,Mario Pineda,Corte en cultivo,340,307,8,Parcial
+1026,2025-08-28,Producción,Helena Cruz,Preparación de ramos,239,216,8,Parcial
+1027,2025-08-29,Empaque,Camila Torres,Armado de cajas,143,126,6,Parcial
+1028,2025-08-29,Empaque,Camila Torres,Etiquetado,139,126,7,Parcial
+1029,2025-08-29,Mantenimiento,Diana Pardo,Mantenimiento preventivo,6,4,5,No cumplida
+1030,2025-08-29,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,6,6,No cumplida
+1031,2025-08-29,Producción,Helena Cruz,Corte en cultivo,376,357,8,Parcial
+1032,2025-08-29,Producción,Mario Pineda,Preparación de ramos,237,201,7,Parcial
+1033,2025-09-01,Calidad,Natalia Ríos,Inspección de lote,30,31,7,Cumplida
+1034,2025-09-01,Calidad,Esteban Gil,Reinspección de lote,20,21,6,Cumplida
+1035,2025-09-01,Empaque,Camila Torres,Armado de cajas,138,134,9,Parcial
+1036,2025-09-01,Empaque,Camila Torres,Etiquetado,137,124,8,Parcial
+1037,2025-09-01,Logística,Oscar Duarte,Despacho regional,8,7,7,Parcial
+1038,2025-09-01,Logística,Valentina León,Despacho urbano,16,15,8,Parcial
+1039,2025-09-02,Calidad,Natalia Ríos,Inspección de lote,32,33,6,Cumplida
+1040,2025-09-02,Calidad,Natalia Ríos,Reinspección de lote,20,19,7,Parcial
+1041,2025-09-02,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,4,6,Parcial
+1042,2025-09-02,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,7,6,Parcial
+1043,2025-09-02,Producción,Mario Pineda,Corte en cultivo,388,353,8,Parcial
+1044,2025-09-02,Producción,Mario Pineda,Preparación de ramos,278,243,7,Parcial
+1045,2025-09-03,Empaque,Felipe Rojas,Armado de cajas,124,118,8,Parcial
+1046,2025-09-03,Empaque,Felipe Rojas,Etiquetado,133,116,8,Parcial
+1047,2025-09-03,Logística,Oscar Duarte,Despacho regional,10,8,7,Parcial
+1048,2025-09-03,Logística,Oscar Duarte,Despacho urbano,19,17,7,Parcial
+1049,2025-09-03,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,5,Parcial
+1050,2025-09-03,Mantenimiento,Ricardo Salazar,Revisión de equipos,9,8,7,Parcial
+1051,2025-09-04,Calidad,Natalia Ríos,Inspección de lote,32,31,6,Parcial
+1052,2025-09-04,Calidad,Natalia Ríos,Reinspección de lote,18,18,7,Cumplida
+1053,2025-09-04,Logística,Oscar Duarte,Despacho regional,8,7,6,Parcial
+1054,2025-09-04,Logística,Oscar Duarte,Despacho urbano,16,13,8,Parcial
+1055,2025-09-04,Producción,Mario Pineda,Corte en cultivo,340,318,8,Parcial
+1056,2025-09-04,Producción,Mario Pineda,Preparación de ramos,247,218,7,Parcial
+1057,2025-09-05,Empaque,Felipe Rojas,Armado de cajas,143,134,9,Parcial
+1058,2025-09-05,Empaque,Camila Torres,Etiquetado,151,136,8,Parcial
+1059,2025-09-05,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,5,Parcial
+1060,2025-09-05,Mantenimiento,Diana Pardo,Revisión de equipos,8,7,6,Parcial
+1061,2025-09-05,Producción,Mario Pineda,Corte en cultivo,435,411,7,Parcial
+1062,2025-09-05,Producción,Helena Cruz,Preparación de ramos,222,207,7,Parcial
+1063,2025-09-08,Calidad,Esteban Gil,Inspección de lote,31,30,6,Parcial
+1064,2025-09-08,Calidad,Natalia Ríos,Reinspección de lote,19,19,7,Cumplida
+1065,2025-09-08,Empaque,Camila Torres,Armado de cajas,140,126,7,Parcial
+1066,2025-09-08,Empaque,Felipe Rojas,Etiquetado,145,135,7,Parcial
+1067,2025-09-08,Logística,Oscar Duarte,Despacho regional,8,7,7,Parcial
+1068,2025-09-08,Logística,Valentina León,Despacho urbano,16,15,7,Parcial
+1069,2025-09-09,Calidad,Natalia Ríos,Inspección de lote,27,28,7,Cumplida
+1070,2025-09-09,Calidad,Esteban Gil,Reinspección de lote,16,15,5,Parcial
+1071,2025-09-09,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,4,Parcial
+1072,2025-09-09,Mantenimiento,Ricardo Salazar,Revisión de equipos,7,6,6,Parcial
+1073,2025-09-09,Producción,Mario Pineda,Corte en cultivo,305,291,8,Parcial
+1074,2025-09-09,Producción,Mario Pineda,Preparación de ramos,234,211,8,Parcial
+1075,2025-09-10,Empaque,Camila Torres,Armado de cajas,134,133,9,Parcial
+1076,2025-09-10,Empaque,Camila Torres,Etiquetado,133,114,6,Parcial
+1077,2025-09-10,Logística,Oscar Duarte,Despacho regional,7,6,7,Parcial
+1078,2025-09-10,Logística,Valentina León,Despacho urbano,17,15,8,Parcial
+1079,2025-09-10,Mantenimiento,Diana Pardo,Mantenimiento preventivo,4,3,7,No cumplida
+1080,2025-09-10,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,6,8,No cumplida
+1081,2025-09-11,Calidad,Natalia Ríos,Inspección de lote,31,31,7,Cumplida
+1082,2025-09-11,Calidad,Natalia Ríos,Reinspección de lote,19,18,6,Parcial
+1083,2025-09-11,Logística,Valentina León,Despacho regional,8,7,7,Parcial
+1084,2025-09-11,Logística,Oscar Duarte,Despacho urbano,16,16,7,Cumplida
+1085,2025-09-11,Producción,Mario Pineda,Corte en cultivo,363,357,8,Parcial
+1086,2025-09-11,Producción,Mario Pineda,Preparación de ramos,184,169,7,Parcial
+1087,2025-09-12,Empaque,Camila Torres,Armado de cajas,136,119,8,Parcial
+1088,2025-09-12,Empaque,Camila Torres,Etiquetado,141,125,6,Parcial
+1089,2025-09-12,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,6,4,5,No cumplida
+1090,2025-09-12,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,6,8,No cumplida
+1091,2025-09-12,Producción,Mario Pineda,Corte en cultivo,388,362,8,Parcial
+1092,2025-09-12,Producción,Helena Cruz,Preparación de ramos,234,211,8,Parcial
+1093,2025-09-15,Calidad,Esteban Gil,Inspección de lote,27,27,8,Cumplida
+1094,2025-09-15,Calidad,Esteban Gil,Reinspección de lote,18,18,5,Cumplida
+1095,2025-09-15,Empaque,Felipe Rojas,Armado de cajas,131,120,8,Parcial
+1096,2025-09-15,Empaque,Camila Torres,Etiquetado,130,114,6,Parcial
+1097,2025-09-15,Logística,Valentina León,Despacho regional,9,8,8,Parcial
+1098,2025-09-15,Logística,Oscar Duarte,Despacho urbano,16,16,7,Cumplida
+1099,2025-09-16,Calidad,Natalia Ríos,Inspección de lote,29,29,7,Cumplida
+1100,2025-09-16,Calidad,Natalia Ríos,Reinspección de lote,17,15,6,Parcial
+1101,2025-09-16,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,4,5,Parcial
+1102,2025-09-16,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,6,7,No cumplida
+1103,2025-09-16,Producción,Helena Cruz,Corte en cultivo,333,324,8,Parcial
+1104,2025-09-16,Producción,Helena Cruz,Preparación de ramos,249,236,9,Parcial
+1105,2025-09-17,Empaque,Felipe Rojas,Armado de cajas,127,113,8,Parcial
+1106,2025-09-17,Empaque,Felipe Rojas,Etiquetado,141,128,7,Parcial
+1107,2025-09-17,Logística,Oscar Duarte,Despacho regional,7,6,7,Parcial
+1108,2025-09-17,Logística,Oscar Duarte,Despacho urbano,16,14,8,Parcial
+1109,2025-09-17,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,4,6,Parcial
+1110,2025-09-17,Mantenimiento,Diana Pardo,Revisión de equipos,9,8,7,Parcial
+1111,2025-09-18,Calidad,Esteban Gil,Inspección de lote,32,30,7,Parcial
+1112,2025-09-18,Calidad,Natalia Ríos,Reinspección de lote,16,15,7,Parcial
+1113,2025-09-18,Logística,Oscar Duarte,Despacho regional,7,6,7,Parcial
+1114,2025-09-18,Logística,Valentina León,Despacho urbano,19,17,9,Parcial
+1115,2025-09-18,Producción,Helena Cruz,Corte en cultivo,356,337,9,Parcial
+1116,2025-09-18,Producción,Helena Cruz,Preparación de ramos,246,223,8,Parcial
+1117,2025-09-19,Empaque,Felipe Rojas,Armado de cajas,122,117,8,Parcial
+1118,2025-09-19,Empaque,Camila Torres,Etiquetado,146,132,7,Parcial
+1119,2025-09-19,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,6,4,5,No cumplida
+1120,2025-09-19,Mantenimiento,Diana Pardo,Revisión de equipos,7,6,7,Parcial
+1121,2025-09-19,Producción,Helena Cruz,Corte en cultivo,395,412,9,Cumplida
+1122,2025-09-19,Producción,Mario Pineda,Preparación de ramos,251,217,9,Parcial
+1123,2025-09-22,Calidad,Esteban Gil,Inspección de lote,28,28,6,Cumplida
+1124,2025-09-22,Calidad,Natalia Ríos,Reinspección de lote,15,15,6,Cumplida
+1125,2025-09-22,Empaque,Felipe Rojas,Armado de cajas,124,110,8,Parcial
+1126,2025-09-22,Empaque,Felipe Rojas,Etiquetado,127,112,8,Parcial
+1127,2025-09-22,Logística,Valentina León,Despacho regional,8,7,7,Parcial
+1128,2025-09-22,Logística,Valentina León,Despacho urbano,17,15,7,Parcial
+1129,2025-09-23,Calidad,Natalia Ríos,Inspección de lote,32,32,7,Cumplida
+1130,2025-09-23,Calidad,Esteban Gil,Reinspección de lote,17,16,6,Parcial
+1131,2025-09-23,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,3,5,No cumplida
+1132,2025-09-23,Mantenimiento,Diana Pardo,Revisión de equipos,8,7,7,Parcial
+1133,2025-09-23,Producción,Mario Pineda,Corte en cultivo,312,293,9,Parcial
+1134,2025-09-23,Producción,Mario Pineda,Preparación de ramos,272,257,7,Parcial
+1135,2025-09-24,Empaque,Felipe Rojas,Armado de cajas,146,132,10,Parcial
+1136,2025-09-24,Empaque,Felipe Rojas,Etiquetado,150,138,7,Parcial
+1137,2025-09-24,Logística,Oscar Duarte,Despacho regional,7,6,8,Parcial
+1138,2025-09-24,Logística,Oscar Duarte,Despacho urbano,15,14,8,Parcial
+1139,2025-09-24,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,7,Parcial
+1140,2025-09-24,Mantenimiento,Ricardo Salazar,Revisión de equipos,7,5,8,No cumplida
+1141,2025-09-25,Calidad,Natalia Ríos,Inspección de lote,31,30,8,Parcial
+1142,2025-09-25,Calidad,Esteban Gil,Reinspección de lote,16,14,6,Parcial
+1143,2025-09-25,Logística,Valentina León,Despacho regional,7,6,8,Parcial
+1144,2025-09-25,Logística,Valentina León,Despacho urbano,15,14,8,Parcial
+1145,2025-09-25,Producción,Helena Cruz,Corte en cultivo,359,339,7,Parcial
+1146,2025-09-25,Producción,Helena Cruz,Preparación de ramos,231,214,8,Parcial
+1147,2025-09-26,Empaque,Felipe Rojas,Armado de cajas,107,96,7,Parcial
+1148,2025-09-26,Empaque,Camila Torres,Etiquetado,174,159,5,Parcial
+1149,2025-09-26,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,4,Parcial
+1150,2025-09-26,Mantenimiento,Diana Pardo,Revisión de equipos,8,7,6,Parcial
+1151,2025-09-26,Producción,Mario Pineda,Corte en cultivo,325,327,9,Cumplida
+1152,2025-09-26,Producción,Helena Cruz,Preparación de ramos,264,236,8,Parcial
+1153,2025-09-29,Calidad,Natalia Ríos,Inspección de lote,26,26,8,Cumplida
+1154,2025-09-29,Calidad,Esteban Gil,Reinspección de lote,18,18,8,Cumplida
+1155,2025-09-29,Empaque,Felipe Rojas,Armado de cajas,127,117,9,Parcial
+1156,2025-09-29,Empaque,Camila Torres,Etiquetado,127,114,6,Parcial
+1157,2025-09-29,Logística,Valentina León,Despacho regional,8,7,7,Parcial
+1158,2025-09-29,Logística,Oscar Duarte,Despacho urbano,16,15,8,Parcial
+1159,2025-09-30,Calidad,Natalia Ríos,Inspección de lote,32,32,8,Cumplida
+1160,2025-09-30,Calidad,Natalia Ríos,Reinspección de lote,17,17,7,Cumplida
+1161,2025-09-30,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,4,7,Parcial
+1162,2025-09-30,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,6,7,No cumplida
+1163,2025-09-30,Producción,Mario Pineda,Corte en cultivo,390,366,6,Parcial
+1164,2025-09-30,Producción,Mario Pineda,Preparación de ramos,236,216,8,Parcial
+1165,2025-10-01,Empaque,Felipe Rojas,Armado de cajas,135,124,8,Parcial
+1166,2025-10-01,Empaque,Camila Torres,Etiquetado,118,104,7,Parcial
+1167,2025-10-01,Logística,Oscar Duarte,Despacho regional,9,8,8,Parcial
+1168,2025-10-01,Logística,Valentina León,Despacho urbano,17,16,8,Parcial
+1169,2025-10-01,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,6,Parcial
+1170,2025-10-01,Mantenimiento,Diana Pardo,Revisión de equipos,7,6,6,Parcial
+1171,2025-10-02,Calidad,Natalia Ríos,Inspección de lote,29,29,8,Cumplida
+1172,2025-10-02,Calidad,Natalia Ríos,Reinspección de lote,18,18,7,Cumplida
+1173,2025-10-02,Logística,Oscar Duarte,Despacho regional,8,7,7,Parcial
+1174,2025-10-02,Logística,Valentina León,Despacho urbano,18,17,7,Parcial
+1175,2025-10-02,Producción,Mario Pineda,Corte en cultivo,354,324,8,Parcial
+1176,2025-10-02,Producción,Helena Cruz,Preparación de ramos,247,233,7,Parcial
+1177,2025-10-03,Empaque,Felipe Rojas,Armado de cajas,133,123,8,Parcial
+1178,2025-10-03,Empaque,Felipe Rojas,Etiquetado,145,136,8,Parcial
+1179,2025-10-03,Mantenimiento,Diana Pardo,Mantenimiento preventivo,4,3,6,No cumplida
+1180,2025-10-03,Mantenimiento,Ricardo Salazar,Revisión de equipos,7,6,7,Parcial
+1181,2025-10-03,Producción,Mario Pineda,Corte en cultivo,335,310,8,Parcial
+1182,2025-10-03,Producción,Helena Cruz,Preparación de ramos,216,200,8,Parcial
+1183,2025-10-06,Calidad,Natalia Ríos,Inspección de lote,28,28,6,Cumplida
+1184,2025-10-06,Calidad,Natalia Ríos,Reinspección de lote,19,20,6,Cumplida
+1185,2025-10-06,Empaque,Felipe Rojas,Armado de cajas,104,95,9,Parcial
+1186,2025-10-06,Empaque,Camila Torres,Etiquetado,134,117,7,Parcial
+1187,2025-10-06,Logística,Oscar Duarte,Despacho regional,9,8,7,Parcial
+1188,2025-10-06,Logística,Oscar Duarte,Despacho urbano,15,14,8,Parcial
+1189,2025-10-07,Calidad,Esteban Gil,Inspección de lote,33,34,9,Cumplida
+1190,2025-10-07,Calidad,Esteban Gil,Reinspección de lote,21,21,7,Cumplida
+1191,2025-10-07,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,6,Parcial
+1192,2025-10-07,Mantenimiento,Diana Pardo,Revisión de equipos,8,7,8,Parcial
+1193,2025-10-07,Producción,Mario Pineda,Corte en cultivo,433,424,9,Parcial
+1194,2025-10-07,Producción,Helena Cruz,Preparación de ramos,230,221,9,Parcial
+1195,2025-10-08,Empaque,Camila Torres,Armado de cajas,126,116,8,Parcial
+1196,2025-10-08,Empaque,Camila Torres,Etiquetado,126,114,8,Parcial
+1197,2025-10-08,Logística,Oscar Duarte,Despacho regional,8,7,7,Parcial
+1198,2025-10-08,Logística,Oscar Duarte,Despacho urbano,16,15,6,Parcial
+1199,2025-10-08,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,4,6,Parcial
+1200,2025-10-08,Mantenimiento,Diana Pardo,Revisión de equipos,7,6,8,Parcial
+1201,2025-10-09,Calidad,Esteban Gil,Inspección de lote,32,33,7,Cumplida
+1202,2025-10-09,Calidad,Esteban Gil,Reinspección de lote,15,15,7,Cumplida
+1203,2025-10-09,Logística,Oscar Duarte,Despacho regional,8,7,6,Parcial
+1204,2025-10-09,Logística,Oscar Duarte,Despacho urbano,18,17,9,Parcial
+1205,2025-10-09,Producción,Mario Pineda,Corte en cultivo,364,373,7,Cumplida
+1206,2025-10-09,Producción,Helena Cruz,Preparación de ramos,233,228,7,Parcial
+1207,2025-10-10,Empaque,Camila Torres,Armado de cajas,159,143,9,Parcial
+1208,2025-10-10,Empaque,Felipe Rojas,Etiquetado,156,134,6,Parcial
+1209,2025-10-10,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,6,Parcial
+1210,2025-10-10,Mantenimiento,Ricardo Salazar,Revisión de equipos,9,7,8,No cumplida
+1211,2025-10-10,Producción,Mario Pineda,Corte en cultivo,360,361,8,Cumplida
+1212,2025-10-10,Producción,Helena Cruz,Preparación de ramos,260,260,7,Cumplida
+1213,2025-10-13,Calidad,Natalia Ríos,Inspección de lote,29,30,7,Cumplida
+1214,2025-10-13,Calidad,Esteban Gil,Reinspección de lote,17,17,6,Cumplida
+1215,2025-10-13,Empaque,Felipe Rojas,Armado de cajas,152,137,7,Parcial
+1216,2025-10-13,Empaque,Felipe Rojas,Etiquetado,136,114,7,Parcial
+1217,2025-10-13,Logística,Valentina León,Despacho regional,7,6,6,Parcial
+1218,2025-10-13,Logística,Oscar Duarte,Despacho urbano,16,15,9,Parcial
+1219,2025-10-14,Calidad,Esteban Gil,Inspección de lote,27,27,8,Cumplida
+1220,2025-10-14,Calidad,Esteban Gil,Reinspección de lote,19,19,6,Cumplida
+1221,2025-10-14,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,4,5,Parcial
+1222,2025-10-14,Mantenimiento,Ricardo Salazar,Revisión de equipos,9,7,7,No cumplida
+1223,2025-10-14,Producción,Helena Cruz,Corte en cultivo,325,316,8,Parcial
+1224,2025-10-14,Producción,Mario Pineda,Preparación de ramos,226,216,8,Parcial
+1225,2025-10-15,Empaque,Felipe Rojas,Armado de cajas,119,108,9,Parcial
+1226,2025-10-15,Empaque,Felipe Rojas,Etiquetado,150,138,6,Parcial
+1227,2025-10-15,Logística,Oscar Duarte,Despacho regional,8,7,7,Parcial
+1228,2025-10-15,Logística,Valentina León,Despacho urbano,16,15,9,Parcial
+1229,2025-10-15,Mantenimiento,Diana Pardo,Mantenimiento preventivo,6,5,7,Parcial
+1230,2025-10-15,Mantenimiento,Ricardo Salazar,Revisión de equipos,9,8,8,Parcial
+1231,2025-10-16,Calidad,Natalia Ríos,Inspección de lote,28,28,6,Cumplida
+1232,2025-10-16,Calidad,Natalia Ríos,Reinspección de lote,17,16,5,Parcial
+1233,2025-10-16,Logística,Valentina León,Despacho regional,8,7,7,Parcial
+1234,2025-10-16,Logística,Valentina León,Despacho urbano,14,13,8,Parcial
+1235,2025-10-16,Producción,Mario Pineda,Corte en cultivo,331,312,9,Parcial
+1236,2025-10-16,Producción,Helena Cruz,Preparación de ramos,210,203,8,Parcial
+1237,2025-10-17,Empaque,Camila Torres,Armado de cajas,124,116,9,Parcial
+1238,2025-10-17,Empaque,Camila Torres,Etiquetado,140,122,7,Parcial
+1239,2025-10-17,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,6,Parcial
+1240,2025-10-17,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,7,7,Parcial
+1241,2025-10-17,Producción,Mario Pineda,Corte en cultivo,347,341,8,Parcial
+1242,2025-10-17,Producción,Mario Pineda,Preparación de ramos,216,203,7,Parcial
+1243,2025-10-20,Calidad,Esteban Gil,Inspección de lote,34,36,7,Cumplida
+1244,2025-10-20,Calidad,Esteban Gil,Reinspección de lote,19,17,6,Parcial
+1245,2025-10-20,Empaque,Felipe Rojas,Armado de cajas,119,109,8,Parcial
+1246,2025-10-20,Empaque,Felipe Rojas,Etiquetado,137,119,6,Parcial
+1247,2025-10-20,Logística,Valentina León,Despacho regional,7,6,7,Parcial
+1248,2025-10-20,Logística,Oscar Duarte,Despacho urbano,15,14,7,Parcial
+1249,2025-10-21,Calidad,Esteban Gil,Inspección de lote,32,32,7,Cumplida
+1250,2025-10-21,Calidad,Esteban Gil,Reinspección de lote,17,17,5,Cumplida
+1251,2025-10-21,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,6,Parcial
+1252,2025-10-21,Mantenimiento,Diana Pardo,Revisión de equipos,7,6,8,Parcial
+1253,2025-10-21,Producción,Mario Pineda,Corte en cultivo,328,329,9,Cumplida
+1254,2025-10-21,Producción,Mario Pineda,Preparación de ramos,252,238,8,Parcial
+1255,2025-10-22,Empaque,Felipe Rojas,Armado de cajas,144,135,9,Parcial
+1256,2025-10-22,Empaque,Felipe Rojas,Etiquetado,124,110,6,Parcial
+1257,2025-10-22,Logística,Valentina León,Despacho regional,8,7,8,Parcial
+1258,2025-10-22,Logística,Oscar Duarte,Despacho urbano,17,16,9,Parcial
+1259,2025-10-22,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,4,3,6,No cumplida
+1260,2025-10-22,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,7,7,Parcial
+1261,2025-10-23,Calidad,Esteban Gil,Inspección de lote,33,34,6,Cumplida
+1262,2025-10-23,Calidad,Natalia Ríos,Reinspección de lote,17,18,5,Cumplida
+1263,2025-10-23,Logística,Oscar Duarte,Despacho regional,8,7,7,Parcial
+1264,2025-10-23,Logística,Valentina León,Despacho urbano,15,13,8,Parcial
+1265,2025-10-23,Producción,Mario Pineda,Corte en cultivo,380,388,8,Cumplida
+1266,2025-10-23,Producción,Helena Cruz,Preparación de ramos,215,201,8,Parcial
+1267,2025-10-24,Empaque,Felipe Rojas,Armado de cajas,135,131,8,Parcial
+1268,2025-10-24,Empaque,Felipe Rojas,Etiquetado,138,122,7,Parcial
+1269,2025-10-24,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,3,4,No cumplida
+1270,2025-10-24,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,7,7,Parcial
+1271,2025-10-24,Producción,Mario Pineda,Corte en cultivo,360,360,7,Cumplida
+1272,2025-10-24,Producción,Mario Pineda,Preparación de ramos,257,245,8,Parcial
+1273,2025-10-27,Calidad,Esteban Gil,Inspección de lote,28,29,7,Cumplida
+1274,2025-10-27,Calidad,Esteban Gil,Reinspección de lote,18,18,6,Cumplida
+1275,2025-10-27,Empaque,Felipe Rojas,Armado de cajas,149,135,8,Parcial
+1276,2025-10-27,Empaque,Camila Torres,Etiquetado,138,116,7,Parcial
+1277,2025-10-27,Logística,Oscar Duarte,Despacho regional,7,7,7,Cumplida
+1278,2025-10-27,Logística,Valentina León,Despacho urbano,15,13,7,Parcial
+1279,2025-10-28,Calidad,Natalia Ríos,Inspección de lote,32,32,7,Cumplida
+1280,2025-10-28,Calidad,Natalia Ríos,Reinspección de lote,16,16,5,Cumplida
+1281,2025-10-28,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,6,Parcial
+1282,2025-10-28,Mantenimiento,Ricardo Salazar,Revisión de equipos,9,7,7,No cumplida
+1283,2025-10-28,Producción,Helena Cruz,Corte en cultivo,378,361,7,Parcial
+1284,2025-10-28,Producción,Helena Cruz,Preparación de ramos,277,272,7,Parcial
+1285,2025-10-29,Empaque,Felipe Rojas,Armado de cajas,109,96,8,Parcial
+1286,2025-10-29,Empaque,Camila Torres,Etiquetado,146,133,8,Parcial
+1287,2025-10-29,Logística,Valentina León,Despacho regional,8,7,7,Parcial
+1288,2025-10-29,Logística,Valentina León,Despacho urbano,16,14,8,Parcial
+1289,2025-10-29,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,7,Parcial
+1290,2025-10-29,Mantenimiento,Diana Pardo,Revisión de equipos,9,8,7,Parcial
+1291,2025-10-30,Calidad,Esteban Gil,Inspección de lote,30,29,7,Parcial
+1292,2025-10-30,Calidad,Natalia Ríos,Reinspección de lote,16,16,6,Cumplida
+1293,2025-10-30,Logística,Valentina León,Despacho regional,9,8,6,Parcial
+1294,2025-10-30,Logística,Oscar Duarte,Despacho urbano,16,15,7,Parcial
+1295,2025-10-30,Producción,Mario Pineda,Corte en cultivo,356,341,8,Parcial
+1296,2025-10-30,Producción,Helena Cruz,Preparación de ramos,288,272,7,Parcial
+1297,2025-10-31,Empaque,Felipe Rojas,Armado de cajas,138,125,8,Parcial
+1298,2025-10-31,Empaque,Felipe Rojas,Etiquetado,148,131,7,Parcial
+1299,2025-10-31,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,6,Parcial
+1300,2025-10-31,Mantenimiento,Diana Pardo,Revisión de equipos,9,7,7,No cumplida
+1301,2025-10-31,Producción,Mario Pineda,Corte en cultivo,306,291,8,Parcial
+1302,2025-10-31,Producción,Helena Cruz,Preparación de ramos,248,234,7,Parcial
+1303,2025-11-03,Calidad,Esteban Gil,Inspección de lote,33,33,7,Cumplida
+1304,2025-11-03,Calidad,Esteban Gil,Reinspección de lote,18,19,6,Cumplida
+1305,2025-11-03,Empaque,Felipe Rojas,Armado de cajas,141,137,9,Parcial
+1306,2025-11-03,Empaque,Felipe Rojas,Etiquetado,132,113,7,Parcial
+1307,2025-11-03,Logística,Valentina León,Despacho regional,8,7,8,Parcial
+1308,2025-11-03,Logística,Oscar Duarte,Despacho urbano,18,17,8,Parcial
+1309,2025-11-04,Calidad,Natalia Ríos,Inspección de lote,30,31,8,Cumplida
+1310,2025-11-04,Calidad,Esteban Gil,Reinspección de lote,18,18,6,Cumplida
+1311,2025-11-04,Mantenimiento,Diana Pardo,Mantenimiento preventivo,6,4,5,No cumplida
+1312,2025-11-04,Mantenimiento,Ricardo Salazar,Revisión de equipos,9,8,6,Parcial
+1313,2025-11-04,Producción,Mario Pineda,Corte en cultivo,321,317,8,Parcial
+1314,2025-11-04,Producción,Mario Pineda,Preparación de ramos,244,226,8,Parcial
+1315,2025-11-05,Empaque,Felipe Rojas,Armado de cajas,148,147,8,Parcial
+1316,2025-11-05,Empaque,Felipe Rojas,Etiquetado,155,144,8,Parcial
+1317,2025-11-05,Logística,Valentina León,Despacho regional,9,8,8,Parcial
+1318,2025-11-05,Logística,Oscar Duarte,Despacho urbano,16,15,7,Parcial
+1319,2025-11-05,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,4,6,Parcial
+1320,2025-11-05,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,7,6,Parcial
+1321,2025-11-06,Calidad,Esteban Gil,Inspección de lote,27,27,7,Cumplida
+1322,2025-11-06,Calidad,Esteban Gil,Reinspección de lote,17,17,6,Cumplida
+1323,2025-11-06,Logística,Valentina León,Despacho regional,8,7,7,Parcial
+1324,2025-11-06,Logística,Valentina León,Despacho urbano,16,16,8,Cumplida
+1325,2025-11-06,Producción,Mario Pineda,Corte en cultivo,379,374,8,Parcial
+1326,2025-11-06,Producción,Helena Cruz,Preparación de ramos,271,246,8,Parcial
+1327,2025-11-07,Empaque,Camila Torres,Armado de cajas,119,112,8,Parcial
+1328,2025-11-07,Empaque,Felipe Rojas,Etiquetado,151,130,6,Parcial
+1329,2025-11-07,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,6,Parcial
+1330,2025-11-07,Mantenimiento,Diana Pardo,Revisión de equipos,8,7,7,Parcial
+1331,2025-11-07,Producción,Helena Cruz,Corte en cultivo,320,314,7,Parcial
+1332,2025-11-07,Producción,Helena Cruz,Preparación de ramos,246,229,7,Parcial
+1333,2025-11-10,Calidad,Esteban Gil,Inspección de lote,33,35,8,Cumplida
+1334,2025-11-10,Calidad,Natalia Ríos,Reinspección de lote,19,19,5,Cumplida
+1335,2025-11-10,Empaque,Camila Torres,Armado de cajas,109,98,7,Parcial
+1336,2025-11-10,Empaque,Camila Torres,Etiquetado,137,131,6,Parcial
+1337,2025-11-10,Logística,Oscar Duarte,Despacho regional,8,8,6,Cumplida
+1338,2025-11-10,Logística,Valentina León,Despacho urbano,13,11,8,Parcial
+1339,2025-11-11,Calidad,Esteban Gil,Inspección de lote,37,39,7,Cumplida
+1340,2025-11-11,Calidad,Esteban Gil,Reinspección de lote,16,16,5,Cumplida
+1341,2025-11-11,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,4,6,Parcial
+1342,2025-11-11,Mantenimiento,Diana Pardo,Revisión de equipos,7,6,7,Parcial
+1343,2025-11-11,Producción,Helena Cruz,Corte en cultivo,270,268,9,Parcial
+1344,2025-11-11,Producción,Mario Pineda,Preparación de ramos,222,227,8,Cumplida
+1345,2025-11-12,Empaque,Camila Torres,Armado de cajas,135,126,9,Parcial
+1346,2025-11-12,Empaque,Camila Torres,Etiquetado,130,113,6,Parcial
+1347,2025-11-12,Logística,Oscar Duarte,Despacho regional,8,7,7,Parcial
+1348,2025-11-12,Logística,Oscar Duarte,Despacho urbano,14,13,8,Parcial
+1349,2025-11-12,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,4,5,Parcial
+1350,2025-11-12,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,7,6,Parcial
+1351,2025-11-13,Calidad,Natalia Ríos,Inspección de lote,29,30,8,Cumplida
+1352,2025-11-13,Calidad,Esteban Gil,Reinspección de lote,19,18,6,Parcial
+1353,2025-11-13,Logística,Oscar Duarte,Despacho regional,8,7,7,Parcial
+1354,2025-11-13,Logística,Oscar Duarte,Despacho urbano,16,14,8,Parcial
+1355,2025-11-13,Producción,Mario Pineda,Corte en cultivo,329,311,7,Parcial
+1356,2025-11-13,Producción,Helena Cruz,Preparación de ramos,246,222,7,Parcial
+1357,2025-11-14,Empaque,Camila Torres,Armado de cajas,130,127,8,Parcial
+1358,2025-11-14,Empaque,Felipe Rojas,Etiquetado,131,127,7,Parcial
+1359,2025-11-14,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,7,Parcial
+1360,2025-11-14,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,7,8,Parcial
+1361,2025-11-14,Producción,Helena Cruz,Corte en cultivo,329,314,9,Parcial
+1362,2025-11-14,Producción,Helena Cruz,Preparación de ramos,201,184,8,Parcial
+1363,2025-11-17,Calidad,Natalia Ríos,Inspección de lote,31,30,6,Parcial
+1364,2025-11-17,Calidad,Esteban Gil,Reinspección de lote,19,19,6,Cumplida
+1365,2025-11-17,Empaque,Felipe Rojas,Armado de cajas,133,122,9,Parcial
+1366,2025-11-17,Empaque,Camila Torres,Etiquetado,134,127,7,Parcial
+1367,2025-11-17,Logística,Valentina León,Despacho regional,9,8,6,Parcial
+1368,2025-11-17,Logística,Valentina León,Despacho urbano,15,14,9,Parcial
+1369,2025-11-18,Calidad,Esteban Gil,Inspección de lote,28,29,6,Cumplida
+1370,2025-11-18,Calidad,Esteban Gil,Reinspección de lote,16,16,6,Cumplida
+1371,2025-11-18,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,6,Parcial
+1372,2025-11-18,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,7,7,Parcial
+1373,2025-11-18,Producción,Mario Pineda,Corte en cultivo,394,389,6,Parcial
+1374,2025-11-18,Producción,Helena Cruz,Preparación de ramos,205,185,8,Parcial
+1375,2025-11-19,Empaque,Camila Torres,Armado de cajas,143,135,9,Parcial
+1376,2025-11-19,Empaque,Camila Torres,Etiquetado,156,137,7,Parcial
+1377,2025-11-19,Logística,Oscar Duarte,Despacho regional,8,7,6,Parcial
+1378,2025-11-19,Logística,Oscar Duarte,Despacho urbano,14,13,9,Parcial
+1379,2025-11-19,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,7,Parcial
+1380,2025-11-19,Mantenimiento,Diana Pardo,Revisión de equipos,9,7,7,No cumplida
+1381,2025-11-20,Calidad,Natalia Ríos,Inspección de lote,36,37,7,Cumplida
+1382,2025-11-20,Calidad,Esteban Gil,Reinspección de lote,19,19,6,Cumplida
+1383,2025-11-20,Logística,Oscar Duarte,Despacho regional,7,7,7,Cumplida
+1384,2025-11-20,Logística,Valentina León,Despacho urbano,19,18,7,Parcial
+1385,2025-11-20,Producción,Mario Pineda,Corte en cultivo,361,356,7,Parcial
+1386,2025-11-20,Producción,Mario Pineda,Preparación de ramos,227,219,9,Parcial
+1387,2025-11-21,Empaque,Camila Torres,Armado de cajas,128,124,8,Parcial
+1388,2025-11-21,Empaque,Camila Torres,Etiquetado,130,123,7,Parcial
+1389,2025-11-21,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,6,Parcial
+1390,2025-11-21,Mantenimiento,Ricardo Salazar,Revisión de equipos,9,8,8,Parcial
+1391,2025-11-21,Producción,Helena Cruz,Corte en cultivo,338,331,9,Parcial
+1392,2025-11-21,Producción,Mario Pineda,Preparación de ramos,240,234,7,Parcial
+1393,2025-11-24,Calidad,Natalia Ríos,Inspección de lote,26,28,7,Cumplida
+1394,2025-11-24,Calidad,Esteban Gil,Reinspección de lote,18,17,7,Parcial
+1395,2025-11-24,Empaque,Felipe Rojas,Armado de cajas,143,135,8,Parcial
+1396,2025-11-24,Empaque,Felipe Rojas,Etiquetado,143,129,6,Parcial
+1397,2025-11-24,Logística,Valentina León,Despacho regional,8,7,7,Parcial
+1398,2025-11-24,Logística,Valentina León,Despacho urbano,14,13,8,Parcial
+1399,2025-11-25,Calidad,Natalia Ríos,Inspección de lote,31,33,7,Cumplida
+1400,2025-11-25,Calidad,Natalia Ríos,Reinspección de lote,18,17,6,Parcial
+1401,2025-11-25,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,4,7,Parcial
+1402,2025-11-25,Mantenimiento,Ricardo Salazar,Revisión de equipos,7,6,7,Parcial
+1403,2025-11-25,Producción,Helena Cruz,Corte en cultivo,348,340,8,Parcial
+1404,2025-11-25,Producción,Helena Cruz,Preparación de ramos,246,239,8,Parcial
+1405,2025-11-26,Empaque,Camila Torres,Armado de cajas,145,148,8,Cumplida
+1406,2025-11-26,Empaque,Felipe Rojas,Etiquetado,135,129,7,Parcial
+1407,2025-11-26,Logística,Valentina León,Despacho regional,9,8,7,Parcial
+1408,2025-11-26,Logística,Valentina León,Despacho urbano,15,14,8,Parcial
+1409,2025-11-26,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,6,Parcial
+1410,2025-11-26,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,7,7,Parcial
+1411,2025-11-27,Calidad,Natalia Ríos,Inspección de lote,26,28,7,Cumplida
+1412,2025-11-27,Calidad,Esteban Gil,Reinspección de lote,16,15,5,Parcial
+1413,2025-11-27,Logística,Valentina León,Despacho regional,9,9,7,Cumplida
+1414,2025-11-27,Logística,Oscar Duarte,Despacho urbano,17,16,8,Parcial
+1415,2025-11-27,Producción,Helena Cruz,Corte en cultivo,312,314,7,Cumplida
+1416,2025-11-27,Producción,Helena Cruz,Preparación de ramos,217,206,7,Parcial
+1417,2025-11-28,Empaque,Camila Torres,Armado de cajas,118,117,8,Parcial
+1418,2025-11-28,Empaque,Felipe Rojas,Etiquetado,139,124,6,Parcial
+1419,2025-11-28,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,4,3,6,No cumplida
+1420,2025-11-28,Mantenimiento,Ricardo Salazar,Revisión de equipos,7,6,7,Parcial
+1421,2025-11-28,Producción,Helena Cruz,Corte en cultivo,354,351,8,Parcial
+1422,2025-11-28,Producción,Helena Cruz,Preparación de ramos,210,204,8,Parcial
+1423,2025-12-01,Calidad,Esteban Gil,Inspección de lote,31,30,7,Parcial
+1424,2025-12-01,Calidad,Esteban Gil,Reinspección de lote,18,16,5,Parcial
+1425,2025-12-01,Empaque,Felipe Rojas,Armado de cajas,128,104,9,Parcial
+1426,2025-12-01,Empaque,Camila Torres,Etiquetado,120,108,6,Parcial
+1427,2025-12-01,Logística,Oscar Duarte,Despacho regional,9,7,7,No cumplida
+1428,2025-12-01,Logística,Valentina León,Despacho urbano,15,12,8,Parcial
+1429,2025-12-02,Calidad,Natalia Ríos,Inspección de lote,32,31,7,Parcial
+1430,2025-12-02,Calidad,Natalia Ríos,Reinspección de lote,18,16,6,Parcial
+1431,2025-12-02,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,4,6,Parcial
+1432,2025-12-02,Mantenimiento,Ricardo Salazar,Revisión de equipos,9,7,6,No cumplida
+1433,2025-12-02,Producción,Mario Pineda,Corte en cultivo,350,341,7,Parcial
+1434,2025-12-02,Producción,Mario Pineda,Preparación de ramos,234,208,8,Parcial
+1435,2025-12-03,Empaque,Camila Torres,Armado de cajas,132,118,8,Parcial
+1436,2025-12-03,Empaque,Felipe Rojas,Etiquetado,140,122,7,Parcial
+1437,2025-12-03,Logística,Oscar Duarte,Despacho regional,8,7,8,Parcial
+1438,2025-12-03,Logística,Valentina León,Despacho urbano,14,12,8,Parcial
+1439,2025-12-03,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,3,6,No cumplida
+1440,2025-12-03,Mantenimiento,Ricardo Salazar,Revisión de equipos,8,7,7,Parcial
+1441,2025-12-04,Calidad,Natalia Ríos,Inspección de lote,29,28,5,Parcial
+1442,2025-12-04,Calidad,Natalia Ríos,Reinspección de lote,19,17,6,Parcial
+1443,2025-12-04,Logística,Oscar Duarte,Despacho regional,9,8,7,Parcial
+1444,2025-12-04,Logística,Oscar Duarte,Despacho urbano,18,15,8,Parcial
+1445,2025-12-04,Producción,Mario Pineda,Corte en cultivo,299,286,7,Parcial
+1446,2025-12-04,Producción,Helena Cruz,Preparación de ramos,232,204,8,Parcial
+1447,2025-12-05,Empaque,Felipe Rojas,Armado de cajas,147,132,7,Parcial
+1448,2025-12-05,Empaque,Camila Torres,Etiquetado,129,116,8,Parcial
+1449,2025-12-05,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,4,7,Parcial
+1450,2025-12-05,Mantenimiento,Diana Pardo,Revisión de equipos,7,6,6,Parcial
+1451,2025-12-05,Producción,Mario Pineda,Corte en cultivo,358,333,7,Parcial
+1452,2025-12-05,Producción,Mario Pineda,Preparación de ramos,247,219,8,Parcial
+1453,2025-12-08,Calidad,Esteban Gil,Inspección de lote,25,25,7,Cumplida
+1454,2025-12-08,Calidad,Esteban Gil,Reinspección de lote,19,18,6,Parcial
+1455,2025-12-08,Empaque,Camila Torres,Armado de cajas,145,125,8,Parcial
+1456,2025-12-08,Empaque,Camila Torres,Etiquetado,148,132,8,Parcial
+1457,2025-12-08,Logística,Valentina León,Despacho regional,9,8,7,Parcial
+1458,2025-12-08,Logística,Oscar Duarte,Despacho urbano,16,15,7,Parcial
+1459,2025-12-09,Calidad,Natalia Ríos,Inspección de lote,31,30,6,Parcial
+1460,2025-12-09,Calidad,Natalia Ríos,Reinspección de lote,16,15,6,Parcial
+1461,2025-12-09,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,3,5,No cumplida
+1462,2025-12-09,Mantenimiento,Diana Pardo,Revisión de equipos,8,6,7,No cumplida
+1463,2025-12-09,Producción,Mario Pineda,Corte en cultivo,349,309,8,Parcial
+1464,2025-12-09,Producción,Helena Cruz,Preparación de ramos,219,202,8,Parcial
+1465,2025-12-10,Empaque,Camila Torres,Armado de cajas,128,114,8,Parcial
+1466,2025-12-10,Empaque,Felipe Rojas,Etiquetado,121,97,7,Parcial
+1467,2025-12-10,Logística,Oscar Duarte,Despacho regional,8,7,7,Parcial
+1468,2025-12-10,Logística,Valentina León,Despacho urbano,16,12,8,No cumplida
+1469,2025-12-10,Mantenimiento,Ricardo Salazar,Mantenimiento preventivo,5,4,6,Parcial
+1470,2025-12-10,Mantenimiento,Diana Pardo,Revisión de equipos,9,7,8,No cumplida
+1471,2025-12-11,Calidad,Natalia Ríos,Inspección de lote,29,28,7,Parcial
+1472,2025-12-11,Calidad,Natalia Ríos,Reinspección de lote,17,16,7,Parcial
+1473,2025-12-11,Logística,Valentina León,Despacho regional,8,7,8,Parcial
+1474,2025-12-11,Logística,Oscar Duarte,Despacho urbano,16,14,8,Parcial
+1475,2025-12-11,Producción,Helena Cruz,Corte en cultivo,358,331,8,Parcial
+1476,2025-12-11,Producción,Helena Cruz,Preparación de ramos,242,210,9,Parcial
+1477,2025-12-12,Empaque,Camila Torres,Armado de cajas,136,121,8,Parcial
+1478,2025-12-12,Empaque,Felipe Rojas,Etiquetado,142,120,7,Parcial
+1479,2025-12-12,Mantenimiento,Diana Pardo,Mantenimiento preventivo,4,3,7,No cumplida
+1480,2025-12-12,Mantenimiento,Diana Pardo,Revisión de equipos,9,7,7,No cumplida
+1481,2025-12-12,Producción,Helena Cruz,Corte en cultivo,392,352,8,Parcial
+1482,2025-12-12,Producción,Helena Cruz,Preparación de ramos,226,203,9,Parcial
+1483,2025-12-15,Calidad,Esteban Gil,Inspección de lote,32,31,7,Parcial
+1484,2025-12-15,Calidad,Esteban Gil,Reinspección de lote,21,18,5,Parcial
+1485,2025-12-15,Empaque,Camila Torres,Armado de cajas,134,131,8,Parcial
+1486,2025-12-15,Empaque,Felipe Rojas,Etiquetado,141,116,6,Parcial
+1487,2025-12-15,Logística,Valentina León,Despacho regional,8,7,7,Parcial
+1488,2025-12-15,Logística,Oscar Duarte,Despacho urbano,13,11,8,Parcial
+1489,2025-12-16,Calidad,Esteban Gil,Inspección de lote,30,29,8,Parcial
+1490,2025-12-16,Calidad,Natalia Ríos,Reinspección de lote,17,16,6,Parcial
+1491,2025-12-16,Mantenimiento,Diana Pardo,Mantenimiento preventivo,4,3,6,No cumplida
+1492,2025-12-16,Mantenimiento,Diana Pardo,Revisión de equipos,8,7,7,Parcial
+1493,2025-12-16,Producción,Mario Pineda,Corte en cultivo,359,343,8,Parcial
+1494,2025-12-16,Producción,Mario Pineda,Preparación de ramos,247,213,8,Parcial
+1495,2025-12-17,Empaque,Felipe Rojas,Armado de cajas,125,108,9,Parcial
+1496,2025-12-17,Empaque,Felipe Rojas,Etiquetado,128,106,7,Parcial
+1497,2025-12-17,Logística,Valentina León,Despacho regional,8,7,7,Parcial
+1498,2025-12-17,Logística,Valentina León,Despacho urbano,18,16,9,Parcial
+1499,2025-12-17,Mantenimiento,Diana Pardo,Mantenimiento preventivo,5,3,7,No cumplida
+1500,2025-12-17,Mantenimiento,Diana Pardo,Revisión de equipos,9,7,6,No cumplida

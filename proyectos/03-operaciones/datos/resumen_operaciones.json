@@ -1,0 +1,612 @@
+{
+  "titulo": "Análisis de indicadores operativos",
+  "advertencia": "Demostración con datos ficticios. No corresponde a una operación real.",
+  "semilla": 21,
+  "fuente": "Calculado por analisis_operativo.py a partir de datos_operativos.csv",
+  "kpis": {
+    "actividades": 1500,
+    "cumplimiento_promedio": 89.24,
+    "actividades_cumplidas": 164,
+    "porcentaje_cumplidas": 10.93,
+    "horas_trabajadas": 10780
+  },
+  "por_area": [
+    {
+      "area": "Calidad",
+      "unidad": "lotes",
+      "actividades": 300,
+      "meta": 7188,
+      "resultado": 7012,
+      "horas": 1963,
+      "cumplimiento": 97.55,
+      "productividad": 3.57
+    },
+    {
+      "area": "Producción",
+      "unidad": "ramos",
+      "actividades": 300,
+      "meta": 89686,
+      "resultado": 83749,
+      "horas": 2380,
+      "cumplimiento": 93.38,
+      "productividad": 35.19
+    },
+    {
+      "area": "Empaque",
+      "unidad": "cajas",
+      "actividades": 300,
+      "meta": 40466,
+      "resultado": 36023,
+      "horas": 2252,
+      "cumplimiento": 89.02,
+      "productividad": 16.0
+    },
+    {
+      "area": "Logística",
+      "unidad": "despachos",
+      "actividades": 300,
+      "meta": 3596,
+      "resultado": 3191,
+      "horas": 2238,
+      "cumplimiento": 88.74,
+      "productividad": 1.43
+    },
+    {
+      "area": "Mantenimiento",
+      "unidad": "órdenes",
+      "actividades": 300,
+      "meta": 1956,
+      "resultado": 1550,
+      "horas": 1947,
+      "cumplimiento": 79.24,
+      "productividad": 0.8
+    }
+  ],
+  "evolucion_semanal": [
+    {
+      "anio": 2025,
+      "semana": 1,
+      "etiqueta": "S01",
+      "clave": "2025-S01",
+      "cumplimiento": 89.32,
+      "actividades": 12
+    },
+    {
+      "anio": 2025,
+      "semana": 2,
+      "etiqueta": "S02",
+      "clave": "2025-S02",
+      "cumplimiento": 88.64,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 3,
+      "etiqueta": "S03",
+      "clave": "2025-S03",
+      "cumplimiento": 88.12,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 4,
+      "etiqueta": "S04",
+      "clave": "2025-S04",
+      "cumplimiento": 88.56,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 5,
+      "etiqueta": "S05",
+      "clave": "2025-S05",
+      "cumplimiento": 90.09,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 6,
+      "etiqueta": "S06",
+      "clave": "2025-S06",
+      "cumplimiento": 84.14,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 7,
+      "etiqueta": "S07",
+      "clave": "2025-S07",
+      "cumplimiento": 84.75,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 8,
+      "etiqueta": "S08",
+      "clave": "2025-S08",
+      "cumplimiento": 85.97,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 9,
+      "etiqueta": "S09",
+      "clave": "2025-S09",
+      "cumplimiento": 85.41,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 10,
+      "etiqueta": "S10",
+      "clave": "2025-S10",
+      "cumplimiento": 86.56,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 11,
+      "etiqueta": "S11",
+      "clave": "2025-S11",
+      "cumplimiento": 87.51,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 12,
+      "etiqueta": "S12",
+      "clave": "2025-S12",
+      "cumplimiento": 86.34,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 13,
+      "etiqueta": "S13",
+      "clave": "2025-S13",
+      "cumplimiento": 86.72,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 14,
+      "etiqueta": "S14",
+      "clave": "2025-S14",
+      "cumplimiento": 89.55,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 15,
+      "etiqueta": "S15",
+      "clave": "2025-S15",
+      "cumplimiento": 89.5,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 16,
+      "etiqueta": "S16",
+      "clave": "2025-S16",
+      "cumplimiento": 90.63,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 17,
+      "etiqueta": "S17",
+      "clave": "2025-S17",
+      "cumplimiento": 90.05,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 18,
+      "etiqueta": "S18",
+      "clave": "2025-S18",
+      "cumplimiento": 90.27,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 19,
+      "etiqueta": "S19",
+      "clave": "2025-S19",
+      "cumplimiento": 91.17,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 20,
+      "etiqueta": "S20",
+      "clave": "2025-S20",
+      "cumplimiento": 90.2,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 21,
+      "etiqueta": "S21",
+      "clave": "2025-S21",
+      "cumplimiento": 91.3,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 22,
+      "etiqueta": "S22",
+      "clave": "2025-S22",
+      "cumplimiento": 90.56,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 23,
+      "etiqueta": "S23",
+      "clave": "2025-S23",
+      "cumplimiento": 88.87,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 24,
+      "etiqueta": "S24",
+      "clave": "2025-S24",
+      "cumplimiento": 87.64,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 25,
+      "etiqueta": "S25",
+      "clave": "2025-S25",
+      "cumplimiento": 89.02,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 26,
+      "etiqueta": "S26",
+      "clave": "2025-S26",
+      "cumplimiento": 88.65,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 27,
+      "etiqueta": "S27",
+      "clave": "2025-S27",
+      "cumplimiento": 88.61,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 28,
+      "etiqueta": "S28",
+      "clave": "2025-S28",
+      "cumplimiento": 86.86,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 29,
+      "etiqueta": "S29",
+      "clave": "2025-S29",
+      "cumplimiento": 87.8,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 30,
+      "etiqueta": "S30",
+      "clave": "2025-S30",
+      "cumplimiento": 87.79,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 31,
+      "etiqueta": "S31",
+      "clave": "2025-S31",
+      "cumplimiento": 89.54,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 32,
+      "etiqueta": "S32",
+      "clave": "2025-S32",
+      "cumplimiento": 91.07,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 33,
+      "etiqueta": "S33",
+      "clave": "2025-S33",
+      "cumplimiento": 89.72,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 34,
+      "etiqueta": "S34",
+      "clave": "2025-S34",
+      "cumplimiento": 89.78,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 35,
+      "etiqueta": "S35",
+      "clave": "2025-S35",
+      "cumplimiento": 88.75,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 36,
+      "etiqueta": "S36",
+      "clave": "2025-S36",
+      "cumplimiento": 90.95,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 37,
+      "etiqueta": "S37",
+      "clave": "2025-S37",
+      "cumplimiento": 89.75,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 38,
+      "etiqueta": "S38",
+      "clave": "2025-S38",
+      "cumplimiento": 90.09,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 39,
+      "etiqueta": "S39",
+      "clave": "2025-S39",
+      "cumplimiento": 89.48,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 40,
+      "etiqueta": "S40",
+      "clave": "2025-S40",
+      "cumplimiento": 91.07,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 41,
+      "etiqueta": "S41",
+      "clave": "2025-S41",
+      "cumplimiento": 92.65,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 42,
+      "etiqueta": "S42",
+      "clave": "2025-S42",
+      "cumplimiento": 91.65,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 43,
+      "etiqueta": "S43",
+      "clave": "2025-S43",
+      "cumplimiento": 91.56,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 44,
+      "etiqueta": "S44",
+      "clave": "2025-S44",
+      "cumplimiento": 91.18,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 45,
+      "etiqueta": "S45",
+      "clave": "2025-S45",
+      "cumplimiento": 92.63,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 46,
+      "etiqueta": "S46",
+      "clave": "2025-S46",
+      "cumplimiento": 92.8,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 47,
+      "etiqueta": "S47",
+      "clave": "2025-S47",
+      "cumplimiento": 93.14,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 48,
+      "etiqueta": "S48",
+      "clave": "2025-S48",
+      "cumplimiento": 93.75,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 49,
+      "etiqueta": "S49",
+      "clave": "2025-S49",
+      "cumplimiento": 87.02,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 50,
+      "etiqueta": "S50",
+      "clave": "2025-S50",
+      "cumplimiento": 86.65,
+      "actividades": 30
+    },
+    {
+      "anio": 2025,
+      "semana": 51,
+      "etiqueta": "S51",
+      "clave": "2025-S51",
+      "cumplimiento": 86.29,
+      "actividades": 18
+    }
+  ],
+  "comparacion_mensual": [
+    {
+      "mes": "2025-01",
+      "etiqueta": "Ene",
+      "cumplimiento": 88.9,
+      "actividades": 132
+    },
+    {
+      "mes": "2025-02",
+      "etiqueta": "Feb",
+      "cumplimiento": 85.07,
+      "actividades": 120
+    },
+    {
+      "mes": "2025-03",
+      "etiqueta": "Mar",
+      "cumplimiento": 86.87,
+      "actividades": 126
+    },
+    {
+      "mes": "2025-04",
+      "etiqueta": "Abr",
+      "cumplimiento": 89.77,
+      "actividades": 132
+    },
+    {
+      "mes": "2025-05",
+      "etiqueta": "May",
+      "cumplimiento": 91.03,
+      "actividades": 132
+    },
+    {
+      "mes": "2025-06",
+      "etiqueta": "Jun",
+      "cumplimiento": 88.69,
+      "actividades": 126
+    },
+    {
+      "mes": "2025-07",
+      "etiqueta": "Jul",
+      "cumplimiento": 87.96,
+      "actividades": 138
+    },
+    {
+      "mes": "2025-08",
+      "etiqueta": "Ago",
+      "cumplimiento": 89.76,
+      "actividades": 126
+    },
+    {
+      "mes": "2025-09",
+      "etiqueta": "Sep",
+      "cumplimiento": 90.24,
+      "actividades": 132
+    },
+    {
+      "mes": "2025-10",
+      "etiqueta": "Oct",
+      "cumplimiento": 91.59,
+      "actividades": 138
+    },
+    {
+      "mes": "2025-11",
+      "etiqueta": "Nov",
+      "cumplimiento": 93.08,
+      "actividades": 120
+    },
+    {
+      "mes": "2025-12",
+      "etiqueta": "Dic",
+      "cumplimiento": 86.71,
+      "actividades": 78
+    }
+  ],
+  "por_estado": [
+    {
+      "estado": "Cumplida",
+      "actividades": 164,
+      "porcentaje": 10.93
+    },
+    {
+      "estado": "Parcial",
+      "actividades": 1201,
+      "porcentaje": 80.07
+    },
+    {
+      "estado": "No cumplida",
+      "actividades": 135,
+      "porcentaje": 9.0
+    }
+  ],
+  "nota_productividad": "La productividad se calcula dentro de cada área porque la unidad de medida cambia. No se debe comparar, por ejemplo, ramos por hora con órdenes por hora.",
+  "explicacion": "El cumplimiento promedio es la media de resultado / meta de cada actividad: 89,24 %. Ese número no es igual al porcentaje de actividades en estado Cumplida (10,93 %), porque una actividad puede quedar cerca de la meta y aun así no alcanzarla. Por área se usa la suma de resultados sobre la suma de metas. Calidad quedó con el cumplimiento más alto (97,55 %) y Mantenimiento con el más bajo (79,24 %).",
+  "conclusiones": [
+    "Se registraron 1.500 actividades. El cumplimiento promedio fue 89,24 %.",
+    "164 actividades alcanzaron o superaron la meta (10,93 %).",
+    "El área con mayor cumplimiento fue Calidad (97,55 %) y la de menor fue Mantenimiento (79,24 %).",
+    "En Mantenimiento la productividad fue 0,80 órdenes por hora. Esa cifra no se compara con otras áreas porque la unidad es distinta.",
+    "El mes con mayor cumplimiento promedio fue Nov (93,08 %) y el de menor fue Feb (85,07 %).",
+    "Las horas registradas suman 10.780."
+  ],
+  "formulas": [
+    {
+      "nombre": "Cumplimiento de la actividad",
+      "expresion": "resultado / meta × 100, con meta mayor que cero"
+    },
+    {
+      "nombre": "Cumplimiento promedio",
+      "expresion": "promedio del cumplimiento de cada actividad"
+    },
+    {
+      "nombre": "Cumplimiento del área",
+      "expresion": "suma de resultados / suma de metas × 100"
+    },
+    {
+      "nombre": "Productividad del área",
+      "expresion": "suma de resultados / suma de horas trabajadas"
+    },
+    {
+      "nombre": "Estado Cumplida",
+      "expresion": "resultado mayor o igual que la meta"
+    },
+    {
+      "nombre": "Estado Parcial",
+      "expresion": "resultado de al menos el 80 % de la meta, sin llegar a 100 %"
+    },
+    {
+      "nombre": "Semana",
+      "expresion": "año ISO y semana ISO de la fecha"
+    }
+  ],
+  "validacion": {
+    "filas": 1500,
+    "metas_en_cero": 0,
+    "horas_en_cero": 0,
+    "estados_inconsistentes": 0
+  }
+}
